@@ -1,0 +1,632 @@
+[
+  {
+    "code": "10166",
+    "name": "Mielero de vidrio con abejitas y cucharón de madera",
+    "category": "Frascos y recipientes",
+    "image": "imagenes/p001.webp",
+    "price": 10.5,
+    "sold": false,
+    "catalog_page": 36
+  },
+  {
+    "code": "10171",
+    "name": "Vaso de vidrio con lazo",
+    "category": "Frascos y recipientes",
+    "image": "imagenes/p002.webp",
+    "price": 10.5,
+    "sold": false,
+    "catalog_page": 41
+  },
+  {
+    "code": "10335-1",
+    "name": "Exhibidor giratorio para joyas de varios niveles",
+    "category": "Más productos",
+    "image": "imagenes/p003.webp",
+    "price": 10.5,
+    "sold": false,
+    "catalog_page": 31
+  },
+  {
+    "code": "10335-2",
+    "name": "Exhibidor giratorio para joyas con base circular",
+    "category": "Más productos",
+    "image": "imagenes/p004.webp",
+    "price": 9.5,
+    "sold": false,
+    "catalog_page": 31
+  },
+  {
+    "code": "10342",
+    "name": "Soporte para celular con amplificador de sonido",
+    "category": "Más productos",
+    "image": "imagenes/p005.webp",
+    "price": 29.5,
+    "sold": false,
+    "catalog_page": 13
+  },
+  {
+    "code": "10376",
+    "name": "Vaso redondo de vidrio con base de madera",
+    "category": "Tazas y vasos",
+    "image": "imagenes/p006.webp",
+    "price": 9.5,
+    "sold": false,
+    "catalog_page": 40
+  },
+  {
+    "code": "10438",
+    "name": "Vaso de vidrio",
+    "category": "Tazas y vasos",
+    "image": "imagenes/p007.webp",
+    "price": 6.5,
+    "sold": true,
+    "catalog_page": 42
+  },
+  {
+    "code": "10447",
+    "name": "Taza de vidrio con lazo",
+    "category": "Tazas y vasos",
+    "image": "imagenes/p008.webp",
+    "price": 6.5,
+    "sold": true,
+    "catalog_page": 32
+  },
+  {
+    "code": "10449",
+    "name": "Vaso de vidrio con lazo",
+    "category": "Tazas y vasos",
+    "image": "imagenes/p009.webp",
+    "price": 6.5,
+    "sold": true,
+    "catalog_page": 41
+  },
+  {
+    "code": "10453",
+    "name": "Vaso de vidrio con lazo",
+    "category": "Tazas y vasos",
+    "image": "imagenes/p010.webp",
+    "price": 8.5,
+    "sold": true,
+    "catalog_page": 41
+  },
+  {
+    "code": "10456",
+    "name": "Vaso de vidrio con sorbete y tapa de bambú",
+    "category": "Tazas y vasos",
+    "image": "imagenes/p011.webp",
+    "price": 6.5,
+    "sold": false,
+    "catalog_page": 38
+  },
+  {
+    "code": "10457",
+    "name": "Vaso de vidrio con sorbete y tapa de bambú",
+    "category": "Tazas y vasos",
+    "image": "imagenes/p012.webp",
+    "price": 6.5,
+    "sold": false,
+    "catalog_page": 38
+  },
+  {
+    "code": "10458",
+    "name": "Vaso de vidrio con asa, tapa de bambú y sorbete",
+    "category": "Tazas y vasos",
+    "image": "imagenes/p013.webp",
+    "price": 5.5,
+    "sold": true,
+    "catalog_page": 32
+  },
+  {
+    "code": "10459",
+    "name": "Vaso redondo de vidrio con sorbete y soporte de madera",
+    "category": "Tazas y vasos",
+    "image": "imagenes/p014.webp",
+    "price": 7.5,
+    "sold": false,
+    "catalog_page": 40
+  },
+  {
+    "code": "6180",
+    "name": "Organizador acrílico multiuso",
+    "category": "Más productos",
+    "image": "imagenes/p015.webp",
+    "price": 11.5,
+    "sold": false,
+    "catalog_page": 9
+  },
+  {
+    "code": "7264",
+    "name": "Joyero organizador con compartimentos",
+    "category": "Más productos",
+    "image": "imagenes/p016.webp",
+    "price": 12.5,
+    "sold": false,
+    "catalog_page": 15
+  },
+  {
+    "code": "7607",
+    "name": "Organizador multiuso",
+    "category": "Más productos",
+    "image": "imagenes/p017.webp",
+    "price": 6.5,
+    "sold": false,
+    "catalog_page": 20
+  },
+  {
+    "code": "7608-1",
+    "name": "Organizador de escritorio",
+    "category": "Más productos",
+    "image": "imagenes/p018.webp",
+    "price": 8.5,
+    "sold": false,
+    "catalog_page": 3
+  },
+  {
+    "code": "7994",
+    "name": "Dispensador de pañuelos de papel",
+    "category": "Más productos",
+    "image": "imagenes/p019.webp",
+    "price": 10.5,
+    "sold": true,
+    "catalog_page": 16
+  },
+  {
+    "code": "7995",
+    "name": "Exhibidor para joyas",
+    "category": "Más productos",
+    "image": "imagenes/p020.webp",
+    "price": 25.5,
+    "sold": false,
+    "catalog_page": 12
+  },
+  {
+    "code": "7998",
+    "name": "Organizador multiuso",
+    "category": "Más productos",
+    "image": "imagenes/p021.webp",
+    "price": 18.5,
+    "sold": false,
+    "catalog_page": 17
+  },
+  {
+    "code": "7999",
+    "name": "Organizador multiuso",
+    "category": "Más productos",
+    "image": "imagenes/p022.webp",
+    "price": 18.5,
+    "sold": false,
+    "catalog_page": 29
+  },
+  {
+    "code": "8139-2",
+    "name": "Organizador de hisopos y algodones",
+    "category": "Más productos",
+    "image": "imagenes/p023.webp",
+    "price": 5.5,
+    "sold": false,
+    "catalog_page": 24
+  },
+  {
+    "code": "8139-4",
+    "name": "Organizador de algodón con tapa transparente",
+    "category": "Más productos",
+    "image": "imagenes/p024.webp",
+    "price": 3.5,
+    "sold": false,
+    "catalog_page": 21
+  },
+  {
+    "code": "8139-5",
+    "name": "Organizador de hisopos con tapa transparente",
+    "category": "Más productos",
+    "image": "imagenes/p025.webp",
+    "price": 3.5,
+    "sold": false,
+    "catalog_page": 21
+  },
+  {
+    "code": "8143-1",
+    "name": "Joyero organizador",
+    "category": "Más productos",
+    "image": "imagenes/p026.webp",
+    "price": 17.5,
+    "sold": false,
+    "catalog_page": 14
+  },
+  {
+    "code": "8145-1",
+    "name": "Joyero organizador",
+    "category": "Más productos",
+    "image": "imagenes/p027.webp",
+    "price": 17.5,
+    "sold": false,
+    "catalog_page": 14
+  },
+  {
+    "code": "8160",
+    "name": "Organizador acrílico",
+    "category": "Más productos",
+    "image": "imagenes/p028.webp",
+    "price": 6.5,
+    "sold": false,
+    "catalog_page": 4
+  },
+  {
+    "code": "8162",
+    "name": "Organizador para algodón",
+    "category": "Más productos",
+    "image": "imagenes/p029.webp",
+    "price": 7.5,
+    "sold": false,
+    "catalog_page": 27
+  },
+  {
+    "code": "8164",
+    "name": "Organizador para hisopos",
+    "category": "Más productos",
+    "image": "imagenes/p030.webp",
+    "price": 5.5,
+    "sold": false,
+    "catalog_page": 27
+  },
+  {
+    "code": "8169",
+    "name": "Organizador multiuso",
+    "category": "Más productos",
+    "image": "imagenes/p031.webp",
+    "price": 8.5,
+    "sold": false,
+    "catalog_page": 28
+  },
+  {
+    "code": "8176",
+    "name": "Organizador multiuso",
+    "category": "Más productos",
+    "image": "imagenes/p032.webp",
+    "price": 13.5,
+    "sold": false,
+    "catalog_page": 25
+  },
+  {
+    "code": "8182",
+    "name": "Organizador de hisopos",
+    "category": "Más productos",
+    "image": "imagenes/p033.webp",
+    "price": 4.5,
+    "sold": false,
+    "catalog_page": 24
+  },
+  {
+    "code": "8191 o 9044-4",
+    "name": "Organizador transparente con tapa y perilla dorada",
+    "category": "Más productos",
+    "image": "imagenes/p034.webp",
+    "price": 6.5,
+    "sold": false,
+    "catalog_page": 20
+  },
+  {
+    "code": "8391",
+    "name": "Organizador para algodón",
+    "category": "Más productos",
+    "image": "imagenes/p035.webp",
+    "price": 5.5,
+    "sold": false,
+    "catalog_page": 22
+  },
+  {
+    "code": "8394",
+    "name": "Organizador multiuso",
+    "category": "Más productos",
+    "image": "imagenes/p036.webp",
+    "price": 6.5,
+    "sold": false,
+    "catalog_page": 28
+  },
+  {
+    "code": "8638",
+    "name": "Organizador de labiales",
+    "category": "Más productos",
+    "image": "imagenes/p037.webp",
+    "price": 22.5,
+    "sold": false,
+    "catalog_page": 26
+  },
+  {
+    "code": "9021",
+    "name": "Organizador acrílico",
+    "category": "Más productos",
+    "image": "imagenes/p038.webp",
+    "price": 6.5,
+    "sold": false,
+    "catalog_page": 4
+  },
+  {
+    "code": "9022",
+    "name": "Organizador acrílico",
+    "category": "Más productos",
+    "image": "imagenes/p039.webp",
+    "price": 4.5,
+    "sold": false,
+    "catalog_page": 2
+  },
+  {
+    "code": "9025",
+    "name": "Juego de accesorios para baño",
+    "category": "Más productos",
+    "image": "imagenes/p040.webp",
+    "price": 12.5,
+    "sold": false,
+    "catalog_page": 10
+  },
+  {
+    "code": "9026",
+    "name": "Juego de accesorios para baño",
+    "category": "Más productos",
+    "image": "imagenes/p041.webp",
+    "price": 14.5,
+    "sold": false,
+    "catalog_page": 10
+  },
+  {
+    "code": "9030",
+    "name": "Juego de organizadores",
+    "category": "Más productos",
+    "image": "imagenes/p042.webp",
+    "price": 5.5,
+    "sold": false,
+    "catalog_page": 5
+  },
+  {
+    "code": "9031",
+    "name": "Juego de organizadores",
+    "category": "Más productos",
+    "image": "imagenes/p043.webp",
+    "price": 5.5,
+    "sold": false,
+    "catalog_page": 6
+  },
+  {
+    "code": "9040",
+    "name": "Estuche organizador multiuso",
+    "category": "Más productos",
+    "image": "imagenes/p044.webp",
+    "price": 5.5,
+    "sold": false,
+    "catalog_page": 18
+  },
+  {
+    "code": "9042",
+    "name": "Organizador multiuso",
+    "category": "Más productos",
+    "image": "imagenes/p045.webp",
+    "price": 15.5,
+    "sold": false,
+    "catalog_page": 29
+  },
+  {
+    "code": "9044-2 o 8189",
+    "name": "Organizador rectangular transparente con tapa",
+    "category": "Más productos",
+    "image": "imagenes/p046.webp",
+    "price": 11.5,
+    "sold": false,
+    "catalog_page": 19
+  },
+  {
+    "code": "9044-3 o 8190",
+    "name": "Organizador rectangular transparente con tapa, otro modelo",
+    "category": "Más productos",
+    "image": "imagenes/p047.webp",
+    "price": 8.5,
+    "sold": false,
+    "catalog_page": 19
+  },
+  {
+    "code": "9050",
+    "name": "Estuche organizador multiuso",
+    "category": "Más productos",
+    "image": "imagenes/p048.webp",
+    "price": 5.5,
+    "sold": false,
+    "catalog_page": 18
+  },
+  {
+    "code": "9051",
+    "name": "Estuche organizador multiuso",
+    "category": "Más productos",
+    "image": "imagenes/p049.webp",
+    "price": 5.5,
+    "sold": false,
+    "catalog_page": 18
+  },
+  {
+    "code": "9111-1",
+    "name": "Frasco de vidrio para pasta con tapa de bambú",
+    "category": "Frascos y recipientes",
+    "image": "imagenes/p050.webp",
+    "price": 11.5,
+    "sold": false,
+    "catalog_page": 43
+  },
+  {
+    "code": "9111-2",
+    "name": "Frasco de vidrio para azúcar con tapa de bambú",
+    "category": "Frascos y recipientes",
+    "image": "imagenes/p051.webp",
+    "price": 10.5,
+    "sold": false,
+    "catalog_page": 43
+  },
+  {
+    "code": "9111-3",
+    "name": "Frasco de vidrio para sal rosada con tapa de bambú",
+    "category": "Frascos y recipientes",
+    "image": "imagenes/p052.webp",
+    "price": 9.5,
+    "sold": false,
+    "catalog_page": 43
+  },
+  {
+    "code": "9117-3",
+    "name": "Vaso de vidrio con tapa de bambú",
+    "category": "Tazas y vasos",
+    "image": "imagenes/p053.webp",
+    "price": 3.5,
+    "sold": false,
+    "catalog_page": 34
+  },
+  {
+    "code": "9119 o 8385",
+    "name": "Set de dos frascos para especias con bandeja",
+    "category": "Frascos y recipientes",
+    "image": "imagenes/p054.webp",
+    "price": 15.5,
+    "sold": false,
+    "catalog_page": 35
+  },
+  {
+    "code": "9150",
+    "name": "Organizador de maquillaje",
+    "category": "Más productos",
+    "image": "imagenes/p055.webp",
+    "price": 12.5,
+    "sold": false,
+    "catalog_page": 23
+  },
+  {
+    "code": "9160",
+    "name": "Organizador acrílico",
+    "category": "Más productos",
+    "image": "imagenes/p056.webp",
+    "price": 13.5,
+    "sold": false,
+    "catalog_page": 30
+  },
+  {
+    "code": "9344",
+    "name": "Organizador alargado transparente",
+    "category": "Más productos",
+    "image": "imagenes/p057.webp",
+    "price": 6.5,
+    "sold": false,
+    "catalog_page": 7
+  },
+  {
+    "code": "9346",
+    "name": "Organizador transparente",
+    "category": "Más productos",
+    "image": "imagenes/p058.webp",
+    "price": 6.5,
+    "sold": false,
+    "catalog_page": 8
+  },
+  {
+    "code": "9488-1",
+    "name": "Taza de vidrio con asa y tapa de bambú",
+    "category": "Tazas y vasos",
+    "image": "imagenes/p059.webp",
+    "price": 14.5,
+    "sold": false,
+    "catalog_page": 37
+  },
+  {
+    "code": "9502",
+    "name": "Set de tres frascos para especias con bandeja",
+    "category": "Frascos y recipientes",
+    "image": "imagenes/p060.webp",
+    "price": 18.5,
+    "sold": false,
+    "catalog_page": 35
+  },
+  {
+    "code": "9572",
+    "name": "Vaso de vidrio",
+    "category": "Tazas y vasos",
+    "image": "imagenes/p061.webp",
+    "price": 5.5,
+    "sold": false,
+    "catalog_page": 42
+  },
+  {
+    "code": "9582",
+    "name": "Taza de vidrio",
+    "category": "Tazas y vasos",
+    "image": "imagenes/p062.webp",
+    "price": 8,
+    "sold": false,
+    "catalog_page": 33
+  },
+  {
+    "code": "HA 0210",
+    "name": "Cafetera de prensa francesa de vidrio con tapa de bambú",
+    "category": "Café y té",
+    "image": "imagenes/p063.webp",
+    "price": 10.5,
+    "sold": false,
+    "catalog_page": 37
+  },
+  {
+    "code": "HA 0229",
+    "name": "Frasco de vidrio con tapa de bambú y margaritas Good Morning",
+    "category": "Frascos y recipientes",
+    "image": "imagenes/p064.webp",
+    "price": 4.5,
+    "sold": false,
+    "catalog_page": 34
+  },
+  {
+    "code": "HA 0241",
+    "name": "Juego de seis tazas de vidrio con margaritas Good Morning",
+    "category": "Tazas y vasos",
+    "image": "imagenes/p065.webp",
+    "price": 9,
+    "sold": false,
+    "catalog_page": 33
+  },
+  {
+    "code": "HA 0250 o 9578",
+    "name": "Tetera de vidrio con infusor y margaritas Good Morning",
+    "category": "Café y té",
+    "image": "imagenes/p066.webp",
+    "price": 21.5,
+    "sold": false,
+    "catalog_page": 39
+  },
+  {
+    "code": "HA 0251",
+    "name": "Taza redonda de vidrio con margaritas Good Morning",
+    "category": "Tazas y vasos",
+    "image": "imagenes/p067.webp",
+    "price": 4.5,
+    "sold": false,
+    "catalog_page": 39
+  },
+  {
+    "code": "HA 0252",
+    "name": "Mielero de vidrio con abejitas y cucharón de bambú",
+    "category": "Frascos y recipientes",
+    "image": "imagenes/p068.webp",
+    "price": 11.5,
+    "sold": false,
+    "catalog_page": 36
+  },
+  {
+    "code": "HA 0253",
+    "name": "Mielero de vidrio con cucharón de bambú",
+    "category": "Frascos y recipientes",
+    "image": "imagenes/p069.webp",
+    "price": 8.5,
+    "sold": false,
+    "catalog_page": 36
+  },
+  {
+    "code": "HA0039",
+    "name": "Frasco rectangular de vidrio texturizado con tapa plateada",
+    "category": "Frascos y recipientes",
+    "image": "imagenes/p070.webp",
+    "price": 3.5,
+    "sold": false,
+    "catalog_page": 11
+  }
+]
