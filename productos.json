@@ -10,7 +10,7 @@
   },
   {
     "code": "10171",
-    "name": "Mielero de vidrio con tapa de bambú",
+    "name": "Vaso de vidrio con lazo",
     "category": "Frascos y recipientes",
     "image": "imagenes/p002.webp",
     "price": 10.5,
@@ -55,7 +55,7 @@
   },
   {
     "code": "10438",
-    "name": "Vaso de vidrio decorativo",
+    "name": "Vaso de vidrio",
     "category": "Tazas y vasos",
     "image": "imagenes/p007.webp",
     "price": 6.5,
@@ -64,7 +64,7 @@
   },
   {
     "code": "10447",
-    "name": "Taza de vidrio con lazo decorativo",
+    "name": "Taza de vidrio con lazo",
     "category": "Tazas y vasos",
     "image": "imagenes/p008.webp",
     "price": 6.5,
@@ -73,7 +73,7 @@
   },
   {
     "code": "10449",
-    "name": "Vaso de vidrio decorativo",
+    "name": "Vaso de vidrio con lazo",
     "category": "Tazas y vasos",
     "image": "imagenes/p009.webp",
     "price": 6.5,
@@ -82,7 +82,7 @@
   },
   {
     "code": "10453",
-    "name": "Vaso de vidrio decorativo",
+    "name": "Vaso de vidrio con lazo",
     "category": "Tazas y vasos",
     "image": "imagenes/p010.webp",
     "price": 8.5,
@@ -91,7 +91,7 @@
   },
   {
     "code": "10456",
-    "name": "Taza de vidrio con tapa y sorbete, diseño decorativo",
+    "name": "Vaso de vidrio con sorbete y tapa de bambú",
     "category": "Tazas y vasos",
     "image": "imagenes/p011.webp",
     "price": 6.5,
@@ -100,7 +100,7 @@
   },
   {
     "code": "10457",
-    "name": "Vaso de vidrio con tapa y sorbete, diseño decorativo",
+    "name": "Vaso de vidrio con sorbete y tapa de bambú",
     "category": "Tazas y vasos",
     "image": "imagenes/p012.webp",
     "price": 6.5,
@@ -109,7 +109,7 @@
   },
   {
     "code": "10458",
-    "name": "Taza de vidrio con asa, tapa de bambú y sorbete",
+    "name": "Vaso de vidrio con asa, tapa de bambú y sorbete",
     "category": "Tazas y vasos",
     "image": "imagenes/p013.webp",
     "price": 5.5,
@@ -199,7 +199,7 @@
   },
   {
     "code": "8139-2",
-    "name": "Organizador de hisopos",
+    "name": "Organizador de hisopos y algodones",
     "category": "Más productos",
     "image": "imagenes/p023.webp",
     "price": 5.5,
@@ -262,7 +262,7 @@
   },
   {
     "code": "8164",
-    "name": "Organizador para algodón",
+    "name": "Organizador para hisopos",
     "category": "Más productos",
     "image": "imagenes/p030.webp",
     "price": 5.5,
