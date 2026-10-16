@@ -1,0 +1,632 @@
+[
+  {
+    "code": "10166",
+    "name": "Artículo para el hogar · 10166",
+    "category": "Más productos",
+    "image": "imagenes/p001.webp",
+    "price": 10.5,
+    "sold": false,
+    "catalog_page": 36
+  },
+  {
+    "code": "10171",
+    "name": "Artículo para el hogar · 10171",
+    "category": "Más productos",
+    "image": "imagenes/p002.webp",
+    "price": 10.5,
+    "sold": false,
+    "catalog_page": 41
+  },
+  {
+    "code": "10335-1",
+    "name": "Artículo para el hogar · 10335-1",
+    "category": "Más productos",
+    "image": "imagenes/p003.webp",
+    "price": 10.5,
+    "sold": false,
+    "catalog_page": 31
+  },
+  {
+    "code": "10335-2",
+    "name": "Artículo para el hogar · 10335-2",
+    "category": "Más productos",
+    "image": "imagenes/p004.webp",
+    "price": 9.5,
+    "sold": false,
+    "catalog_page": 31
+  },
+  {
+    "code": "10342",
+    "name": "Artículo para el hogar · 10342",
+    "category": "Más productos",
+    "image": "imagenes/p005.webp",
+    "price": 29.5,
+    "sold": false,
+    "catalog_page": 13
+  },
+  {
+    "code": "10376",
+    "name": "Artículo para el hogar · 10376",
+    "category": "Más productos",
+    "image": "imagenes/p006.webp",
+    "price": 9.5,
+    "sold": false,
+    "catalog_page": 40
+  },
+  {
+    "code": "10438",
+    "name": "Artículo para el hogar · 10438",
+    "category": "Más productos",
+    "image": "imagenes/p007.webp",
+    "price": 6.5,
+    "sold": true,
+    "catalog_page": 42
+  },
+  {
+    "code": "10447",
+    "name": "Artículo para el hogar · 10447",
+    "category": "Más productos",
+    "image": "imagenes/p008.webp",
+    "price": 6.5,
+    "sold": true,
+    "catalog_page": 32
+  },
+  {
+    "code": "10449",
+    "name": "Artículo para el hogar · 10449",
+    "category": "Más productos",
+    "image": "imagenes/p009.webp",
+    "price": 6.5,
+    "sold": true,
+    "catalog_page": 41
+  },
+  {
+    "code": "10453",
+    "name": "Artículo para el hogar · 10453",
+    "category": "Más productos",
+    "image": "imagenes/p010.webp",
+    "price": 8.5,
+    "sold": true,
+    "catalog_page": 41
+  },
+  {
+    "code": "10456",
+    "name": "Artículo para el hogar · 10456",
+    "category": "Más productos",
+    "image": "imagenes/p011.webp",
+    "price": 6.5,
+    "sold": false,
+    "catalog_page": 38
+  },
+  {
+    "code": "10457",
+    "name": "Artículo para el hogar · 10457",
+    "category": "Más productos",
+    "image": "imagenes/p012.webp",
+    "price": 6.5,
+    "sold": false,
+    "catalog_page": 38
+  },
+  {
+    "code": "10458",
+    "name": "Taza de vidrio con tapa de bambú y sorbete",
+    "category": "Tazas y vasos",
+    "image": "imagenes/p013.webp",
+    "price": 5.5,
+    "sold": true,
+    "catalog_page": 32
+  },
+  {
+    "code": "10459",
+    "name": "Vaso redondo de vidrio con sorbete y soporte",
+    "category": "Tazas y vasos",
+    "image": "imagenes/p014.webp",
+    "price": 7.5,
+    "sold": false,
+    "catalog_page": 40
+  },
+  {
+    "code": "6180",
+    "name": "Artículo para el hogar · 6180",
+    "category": "Más productos",
+    "image": "imagenes/p015.webp",
+    "price": 11.5,
+    "sold": false,
+    "catalog_page": 9
+  },
+  {
+    "code": "7264",
+    "name": "Artículo para el hogar · 7264",
+    "category": "Más productos",
+    "image": "imagenes/p016.webp",
+    "price": 12.5,
+    "sold": false,
+    "catalog_page": 15
+  },
+  {
+    "code": "7607",
+    "name": "Artículo para el hogar · 7607",
+    "category": "Más productos",
+    "image": "imagenes/p017.webp",
+    "price": 6.5,
+    "sold": false,
+    "catalog_page": 20
+  },
+  {
+    "code": "7608-1",
+    "name": "Artículo para el hogar · 7608-1",
+    "category": "Más productos",
+    "image": "imagenes/p018.webp",
+    "price": 8.5,
+    "sold": false,
+    "catalog_page": 3
+  },
+  {
+    "code": "7994",
+    "name": "Artículo para el hogar · 7994",
+    "category": "Más productos",
+    "image": "imagenes/p019.webp",
+    "price": 10.5,
+    "sold": true,
+    "catalog_page": 16
+  },
+  {
+    "code": "7995",
+    "name": "Artículo para el hogar · 7995",
+    "category": "Más productos",
+    "image": "imagenes/p020.webp",
+    "price": 25.5,
+    "sold": false,
+    "catalog_page": 12
+  },
+  {
+    "code": "7998",
+    "name": "Artículo para el hogar · 7998",
+    "category": "Más productos",
+    "image": "imagenes/p021.webp",
+    "price": 18.5,
+    "sold": false,
+    "catalog_page": 17
+  },
+  {
+    "code": "7999",
+    "name": "Artículo para el hogar · 7999",
+    "category": "Más productos",
+    "image": "imagenes/p022.webp",
+    "price": 18.5,
+    "sold": false,
+    "catalog_page": 29
+  },
+  {
+    "code": "8139-2",
+    "name": "Artículo para el hogar · 8139-2",
+    "category": "Más productos",
+    "image": "imagenes/p023.webp",
+    "price": 5.5,
+    "sold": false,
+    "catalog_page": 24
+  },
+  {
+    "code": "8139-4",
+    "name": "Artículo para el hogar · 8139-4",
+    "category": "Más productos",
+    "image": "imagenes/p024.webp",
+    "price": 3.5,
+    "sold": false,
+    "catalog_page": 21
+  },
+  {
+    "code": "8139-5",
+    "name": "Artículo para el hogar · 8139-5",
+    "category": "Más productos",
+    "image": "imagenes/p025.webp",
+    "price": 3.5,
+    "sold": false,
+    "catalog_page": 21
+  },
+  {
+    "code": "8143-1",
+    "name": "Artículo para el hogar · 8143-1",
+    "category": "Más productos",
+    "image": "imagenes/p026.webp",
+    "price": 17.5,
+    "sold": false,
+    "catalog_page": 14
+  },
+  {
+    "code": "8145-1",
+    "name": "Artículo para el hogar · 8145-1",
+    "category": "Más productos",
+    "image": "imagenes/p027.webp",
+    "price": 17.5,
+    "sold": false,
+    "catalog_page": 14
+  },
+  {
+    "code": "8160",
+    "name": "Artículo para el hogar · 8160",
+    "category": "Más productos",
+    "image": "imagenes/p028.webp",
+    "price": 6.5,
+    "sold": false,
+    "catalog_page": 4
+  },
+  {
+    "code": "8162",
+    "name": "Artículo para el hogar · 8162",
+    "category": "Más productos",
+    "image": "imagenes/p029.webp",
+    "price": 7.5,
+    "sold": false,
+    "catalog_page": 27
+  },
+  {
+    "code": "8164",
+    "name": "Artículo para el hogar · 8164",
+    "category": "Más productos",
+    "image": "imagenes/p030.webp",
+    "price": 5.5,
+    "sold": false,
+    "catalog_page": 27
+  },
+  {
+    "code": "8169",
+    "name": "Artículo para el hogar · 8169",
+    "category": "Más productos",
+    "image": "imagenes/p031.webp",
+    "price": 8.5,
+    "sold": false,
+    "catalog_page": 28
+  },
+  {
+    "code": "8176",
+    "name": "Artículo para el hogar · 8176",
+    "category": "Más productos",
+    "image": "imagenes/p032.webp",
+    "price": 13.5,
+    "sold": false,
+    "catalog_page": 25
+  },
+  {
+    "code": "8182",
+    "name": "Artículo para el hogar · 8182",
+    "category": "Más productos",
+    "image": "imagenes/p033.webp",
+    "price": 4.5,
+    "sold": false,
+    "catalog_page": 24
+  },
+  {
+    "code": "8191 o 9044-4",
+    "name": "Artículo para el hogar · 8191 o 9044-4",
+    "category": "Más productos",
+    "image": "imagenes/p034.webp",
+    "price": 6.5,
+    "sold": false,
+    "catalog_page": 20
+  },
+  {
+    "code": "8391",
+    "name": "Artículo para el hogar · 8391",
+    "category": "Más productos",
+    "image": "imagenes/p035.webp",
+    "price": 5.5,
+    "sold": false,
+    "catalog_page": 22
+  },
+  {
+    "code": "8394",
+    "name": "Artículo para el hogar · 8394",
+    "category": "Más productos",
+    "image": "imagenes/p036.webp",
+    "price": 6.5,
+    "sold": false,
+    "catalog_page": 28
+  },
+  {
+    "code": "8638",
+    "name": "Artículo para el hogar · 8638",
+    "category": "Más productos",
+    "image": "imagenes/p037.webp",
+    "price": 22.5,
+    "sold": false,
+    "catalog_page": 26
+  },
+  {
+    "code": "9021",
+    "name": "Artículo para el hogar · 9021",
+    "category": "Más productos",
+    "image": "imagenes/p038.webp",
+    "price": 6.5,
+    "sold": false,
+    "catalog_page": 4
+  },
+  {
+    "code": "9022",
+    "name": "Artículo para el hogar · 9022",
+    "category": "Más productos",
+    "image": "imagenes/p039.webp",
+    "price": 4.5,
+    "sold": false,
+    "catalog_page": 2
+  },
+  {
+    "code": "9025",
+    "name": "Artículo para el hogar · 9025",
+    "category": "Más productos",
+    "image": "imagenes/p040.webp",
+    "price": 12.5,
+    "sold": false,
+    "catalog_page": 10
+  },
+  {
+    "code": "9026",
+    "name": "Artículo para el hogar · 9026",
+    "category": "Más productos",
+    "image": "imagenes/p041.webp",
+    "price": 14.5,
+    "sold": false,
+    "catalog_page": 10
+  },
+  {
+    "code": "9030",
+    "name": "Artículo para el hogar · 9030",
+    "category": "Más productos",
+    "image": "imagenes/p042.webp",
+    "price": 5.5,
+    "sold": false,
+    "catalog_page": 5
+  },
+  {
+    "code": "9031",
+    "name": "Artículo para el hogar · 9031",
+    "category": "Más productos",
+    "image": "imagenes/p043.webp",
+    "price": 5.5,
+    "sold": false,
+    "catalog_page": 6
+  },
+  {
+    "code": "9040",
+    "name": "Artículo para el hogar · 9040",
+    "category": "Más productos",
+    "image": "imagenes/p044.webp",
+    "price": 5.5,
+    "sold": false,
+    "catalog_page": 18
+  },
+  {
+    "code": "9042",
+    "name": "Artículo para el hogar · 9042",
+    "category": "Más productos",
+    "image": "imagenes/p045.webp",
+    "price": 15.5,
+    "sold": false,
+    "catalog_page": 29
+  },
+  {
+    "code": "9044-2 o 8189",
+    "name": "Artículo para el hogar · 9044-2 o 8189",
+    "category": "Más productos",
+    "image": "imagenes/p046.webp",
+    "price": 11.5,
+    "sold": false,
+    "catalog_page": 19
+  },
+  {
+    "code": "9044-3 o 8190",
+    "name": "Artículo para el hogar · 9044-3 o 8190",
+    "category": "Más productos",
+    "image": "imagenes/p047.webp",
+    "price": 8.5,
+    "sold": false,
+    "catalog_page": 19
+  },
+  {
+    "code": "9050",
+    "name": "Artículo para el hogar · 9050",
+    "category": "Más productos",
+    "image": "imagenes/p048.webp",
+    "price": 5.5,
+    "sold": false,
+    "catalog_page": 18
+  },
+  {
+    "code": "9051",
+    "name": "Artículo para el hogar · 9051",
+    "category": "Más productos",
+    "image": "imagenes/p049.webp",
+    "price": 5.5,
+    "sold": false,
+    "catalog_page": 18
+  },
+  {
+    "code": "9111-1",
+    "name": "Artículo para el hogar · 9111-1",
+    "category": "Más productos",
+    "image": "imagenes/p050.webp",
+    "price": 11.5,
+    "sold": false,
+    "catalog_page": 43
+  },
+  {
+    "code": "9111-2",
+    "name": "Artículo para el hogar · 9111-2",
+    "category": "Más productos",
+    "image": "imagenes/p051.webp",
+    "price": 10.5,
+    "sold": false,
+    "catalog_page": 43
+  },
+  {
+    "code": "9111-3",
+    "name": "Artículo para el hogar · 9111-3",
+    "category": "Más productos",
+    "image": "imagenes/p052.webp",
+    "price": 9.5,
+    "sold": false,
+    "catalog_page": 43
+  },
+  {
+    "code": "9117-3",
+    "name": "Artículo para el hogar · 9117-3",
+    "category": "Más productos",
+    "image": "imagenes/p053.webp",
+    "price": 3.5,
+    "sold": false,
+    "catalog_page": 34
+  },
+  {
+    "code": "9119 o 8385",
+    "name": "Artículo para el hogar · 9119 o 8385",
+    "category": "Más productos",
+    "image": "imagenes/p054.webp",
+    "price": 15.5,
+    "sold": false,
+    "catalog_page": 35
+  },
+  {
+    "code": "9150",
+    "name": "Artículo para el hogar · 9150",
+    "category": "Más productos",
+    "image": "imagenes/p055.webp",
+    "price": 12.5,
+    "sold": false,
+    "catalog_page": 23
+  },
+  {
+    "code": "9160",
+    "name": "Artículo para el hogar · 9160",
+    "category": "Más productos",
+    "image": "imagenes/p056.webp",
+    "price": 13.5,
+    "sold": false,
+    "catalog_page": 30
+  },
+  {
+    "code": "9344",
+    "name": "Artículo para el hogar · 9344",
+    "category": "Más productos",
+    "image": "imagenes/p057.webp",
+    "price": 6.5,
+    "sold": false,
+    "catalog_page": 7
+  },
+  {
+    "code": "9346",
+    "name": "Artículo para el hogar · 9346",
+    "category": "Más productos",
+    "image": "imagenes/p058.webp",
+    "price": 6.5,
+    "sold": false,
+    "catalog_page": 8
+  },
+  {
+    "code": "9488-1",
+    "name": "Artículo para el hogar · 9488-1",
+    "category": "Más productos",
+    "image": "imagenes/p059.webp",
+    "price": 14.5,
+    "sold": false,
+    "catalog_page": 37
+  },
+  {
+    "code": "9502",
+    "name": "Artículo para el hogar · 9502",
+    "category": "Más productos",
+    "image": "imagenes/p060.webp",
+    "price": 18.5,
+    "sold": false,
+    "catalog_page": 35
+  },
+  {
+    "code": "9572",
+    "name": "Artículo para el hogar · 9572",
+    "category": "Más productos",
+    "image": "imagenes/p061.webp",
+    "price": 5.5,
+    "sold": false,
+    "catalog_page": 42
+  },
+  {
+    "code": "9582",
+    "name": "Artículo para el hogar · 9582",
+    "category": "Más productos",
+    "image": "imagenes/p062.webp",
+    "price": 8,
+    "sold": false,
+    "catalog_page": 33
+  },
+  {
+    "code": "HA 0210",
+    "name": "Cafetera de prensa francesa 350 ml",
+    "category": "Café y té",
+    "image": "imagenes/p063.webp",
+    "price": 10.5,
+    "sold": false,
+    "catalog_page": 37
+  },
+  {
+    "code": "HA 0229",
+    "name": "Frasco de vidrio Good Morning con tapa de bambú",
+    "category": "Frascos y recipientes",
+    "image": "imagenes/p064.webp",
+    "price": 4.5,
+    "sold": false,
+    "catalog_page": 34
+  },
+  {
+    "code": "HA 0241",
+    "name": "Juego de 6 tazas Good Morning",
+    "category": "Tazas y vasos",
+    "image": "imagenes/p065.webp",
+    "price": 9,
+    "sold": false,
+    "catalog_page": 33
+  },
+  {
+    "code": "HA 0250 o 9578",
+    "name": "Tetera de vidrio Good Morning con infusor",
+    "category": "Café y té",
+    "image": "imagenes/p066.webp",
+    "price": 21.5,
+    "sold": false,
+    "catalog_page": 39
+  },
+  {
+    "code": "HA 0251",
+    "name": "Taza redonda Good Morning",
+    "category": "Tazas y vasos",
+    "image": "imagenes/p067.webp",
+    "price": 4.5,
+    "sold": false,
+    "catalog_page": 39
+  },
+  {
+    "code": "HA 0252",
+    "name": "Mielero de vidrio con abejitas y cucharón",
+    "category": "Frascos y recipientes",
+    "image": "imagenes/p068.webp",
+    "price": 11.5,
+    "sold": false,
+    "catalog_page": 36
+  },
+  {
+    "code": "HA 0253",
+    "name": "Mielero de vidrio con cucharón de bambú",
+    "category": "Frascos y recipientes",
+    "image": "imagenes/p069.webp",
+    "price": 8.5,
+    "sold": false,
+    "catalog_page": 36
+  },
+  {
+    "code": "HA0039",
+    "name": "Frasco rectangular de vidrio texturizado",
+    "category": "Frascos y recipientes",
+    "image": "imagenes/p070.webp",
+    "price": 3.5,
+    "sold": false,
+    "catalog_page": 11
+  }
+]
