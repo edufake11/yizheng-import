@@ -1,3 +1,4 @@
+
 User-agent: *
 Allow: /
-Sitemap: https://edufake11.github.io/yizheng-import/sitemap.xml
+Sitemap: https://www.yizhengimport.com/sitemap.xml
