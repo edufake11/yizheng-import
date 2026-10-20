@@ -11,7 +11,7 @@
   {
     "code": "10171",
     "name": "Vaso de vidrio con lazo",
-    "category": "Frascos y recipientes",
+    "category": "Tazas y vasos",
     "image": "imagenes/p002.webp",
     "price": 10.5,
     "sold": false,
@@ -73,7 +73,7 @@
   },
   {
     "code": "10449",
-    "name": "Vaso de vidrio con lazo",
+    "name": "Vaso de borocilicato con lazo",
     "category": "Tazas y vasos",
     "image": "imagenes/p009.webp",
     "price": 6.5,
@@ -82,7 +82,7 @@
   },
   {
     "code": "10453",
-    "name": "Vaso de vidrio con lazo",
+    "name": "Vaso de borocilicato con lazo",
     "category": "Tazas y vasos",
     "image": "imagenes/p010.webp",
     "price": 8.5,
@@ -388,7 +388,7 @@
   },
   {
     "code": "9040",
-    "name": "Estuche organizador multiuso",
+    "name": "Estuche para cepillo de dientes",
     "category": "Más productos",
     "image": "imagenes/p044.webp",
     "price": 5.5,
@@ -622,7 +622,7 @@
   },
   {
     "code": "HA0039",
-    "name": "Frasco rectangular de vidrio texturizado con tapa plateada",
+    "name": "Frasco rectangular acrílico texturizado con tapa plateada",
     "category": "Frascos y recipientes",
     "image": "imagenes/p070.webp",
     "price": 3.5,
