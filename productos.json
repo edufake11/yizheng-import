@@ -628,5 +628,517 @@
     "price": 3.5,
     "sold": false,
     "catalog_page": 11
+  },
+  {
+    "code": "10200",
+    "name": "Producto código 10200",
+    "category": "Más productos",
+    "image": "imagenes/10200.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "10201",
+    "name": "Producto código 10201",
+    "category": "Más productos",
+    "image": "imagenes/10201.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "10252",
+    "name": "Producto código 10252",
+    "category": "Más productos",
+    "image": "imagenes/10252.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "10253",
+    "name": "Producto código 10253",
+    "category": "Más productos",
+    "image": "imagenes/10253.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "10259-1",
+    "name": "Producto código 10259-1",
+    "category": "Más productos",
+    "image": "imagenes/10259-1.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "10259-2",
+    "name": "Producto código 10259-2",
+    "category": "Más productos",
+    "image": "imagenes/10259-2.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "10261-1",
+    "name": "Producto código 10261-1",
+    "category": "Más productos",
+    "image": "imagenes/10261-1.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "10261-2",
+    "name": "Producto código 10261-2",
+    "category": "Más productos",
+    "image": "imagenes/10261-2.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "10264",
+    "name": "Producto código 10264",
+    "category": "Más productos",
+    "image": "imagenes/10264.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "10269",
+    "name": "Producto código 10269",
+    "category": "Más productos",
+    "image": "imagenes/10269.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "10272",
+    "name": "Producto código 10272",
+    "category": "Más productos",
+    "image": "imagenes/10272.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "10283",
+    "name": "Producto código 10283",
+    "category": "Más productos",
+    "image": "imagenes/10283.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "10345",
+    "name": "Producto código 10345",
+    "category": "Más productos",
+    "image": "imagenes/10345.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "10379",
+    "name": "Producto código 10379",
+    "category": "Más productos",
+    "image": "imagenes/10379.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "10380",
+    "name": "Producto código 10380",
+    "category": "Más productos",
+    "image": "imagenes/10380.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "10386",
+    "name": "Producto código 10386",
+    "category": "Más productos",
+    "image": "imagenes/10386.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "10420-1",
+    "name": "Producto código 10420-1",
+    "category": "Más productos",
+    "image": "imagenes/10420-1.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "10420-2",
+    "name": "Producto código 10420-2",
+    "category": "Más productos",
+    "image": "imagenes/10420-2.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "10420-3",
+    "name": "Producto código 10420-3",
+    "category": "Más productos",
+    "image": "imagenes/10420-3.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "10420-5",
+    "name": "Producto código 10420-5",
+    "category": "Más productos",
+    "image": "imagenes/10420-5.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "10421-1",
+    "name": "Producto código 10421-1",
+    "category": "Más productos",
+    "image": "imagenes/10421-1.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "10421-2",
+    "name": "Producto código 10421-2",
+    "category": "Más productos",
+    "image": "imagenes/10421-2.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "10421-3",
+    "name": "Producto código 10421-3",
+    "category": "Más productos",
+    "image": "imagenes/10421-3.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "10421-4",
+    "name": "Producto código 10421-4",
+    "category": "Más productos",
+    "image": "imagenes/10421-4.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "10421-5",
+    "name": "Producto código 10421-5",
+    "category": "Más productos",
+    "image": "imagenes/10421-5.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "10422-1",
+    "name": "Producto código 10422-1",
+    "category": "Más productos",
+    "image": "imagenes/10422-1.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "10422-2",
+    "name": "Producto código 10422-2",
+    "category": "Más productos",
+    "image": "imagenes/10422-2.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "10423-1",
+    "name": "Producto código 10423-1",
+    "category": "Más productos",
+    "image": "imagenes/10423-1.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "10423-2",
+    "name": "Producto código 10423-2",
+    "category": "Más productos",
+    "image": "imagenes/10423-2.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "10423-3",
+    "name": "Producto código 10423-3",
+    "category": "Más productos",
+    "image": "imagenes/10423-3.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "10429",
+    "name": "Producto código 10429",
+    "category": "Más productos",
+    "image": "imagenes/10429.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "10430",
+    "name": "Producto código 10430",
+    "category": "Más productos",
+    "image": "imagenes/10430.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "7605-1",
+    "name": "Producto código 7605-1",
+    "category": "Más productos",
+    "image": "imagenes/7605-1.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "7605-2",
+    "name": "Producto código 7605-2",
+    "category": "Más productos",
+    "image": "imagenes/7605-2.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "9162",
+    "name": "Producto código 9162",
+    "category": "Más productos",
+    "image": "imagenes/9162.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "9409",
+    "name": "Producto código 9409",
+    "category": "Más productos",
+    "image": "imagenes/9409.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "9482",
+    "name": "Producto código 9482",
+    "category": "Más productos",
+    "image": "imagenes/9482.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "9484",
+    "name": "Producto código 9484",
+    "category": "Más productos",
+    "image": "imagenes/9484.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "9534-1",
+    "name": "Producto código 9534-1",
+    "category": "Más productos",
+    "image": "imagenes/9534-1.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "9534-2",
+    "name": "Producto código 9534-2",
+    "category": "Más productos",
+    "image": "imagenes/9534-2.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "9534-3",
+    "name": "Producto código 9534-3",
+    "category": "Más productos",
+    "image": "imagenes/9534-3.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "9543",
+    "name": "Producto código 9543",
+    "category": "Más productos",
+    "image": "imagenes/9543.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "9544",
+    "name": "Producto código 9544",
+    "category": "Más productos",
+    "image": "imagenes/9544.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "HA 0079",
+    "name": "Producto código HA 0079",
+    "category": "Tazas y vasos",
+    "image": "imagenes/HA 0079.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "HA 0148-1",
+    "name": "Producto código HA 0148-1",
+    "category": "Tazas y vasos",
+    "image": "imagenes/HA 0148-1.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "HA 0253(1)",
+    "name": "Producto código HA 0253(1)",
+    "category": "Tazas y vasos",
+    "image": "imagenes/HA 0253(1).png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "HA 0262",
+    "name": "Producto código HA 0262",
+    "category": "Tazas y vasos",
+    "image": "imagenes/HA 0262.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "HA 0263 o 9614",
+    "name": "Producto código HA 0263 o 9614",
+    "category": "Tazas y vasos",
+    "image": "imagenes/HA 0263 o 9614.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "HA 0264 o 9616",
+    "name": "Producto código HA 0264 o 9616",
+    "category": "Tazas y vasos",
+    "image": "imagenes/HA 0264 o 9616.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "HA 0265 o 9615",
+    "name": "Producto código HA 0265 o 9615",
+    "category": "Tazas y vasos",
+    "image": "imagenes/HA 0265 o 9615.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "HA 0289",
+    "name": "Producto código HA 0289",
+    "category": "Tazas y vasos",
+    "image": "imagenes/HA 0289.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "HA 0290",
+    "name": "Producto código HA 0290",
+    "category": "Tazas y vasos",
+    "image": "imagenes/HA 0290.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "HA 0292",
+    "name": "Producto código HA 0292",
+    "category": "Tazas y vasos",
+    "image": "imagenes/HA 0292.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "HA 0301",
+    "name": "Producto código HA 0301",
+    "category": "Tazas y vasos",
+    "image": "imagenes/HA 0301.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "HA 0302",
+    "name": "Producto código HA 0302",
+    "category": "Tazas y vasos",
+    "image": "imagenes/HA 0302.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "HA 0304",
+    "name": "Producto código HA 0304",
+    "category": "Tazas y vasos",
+    "image": "imagenes/HA 0304.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "HA 0305",
+    "name": "Producto código HA 0305",
+    "category": "Tazas y vasos",
+    "image": "imagenes/HA 0305.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "HA 0306",
+    "name": "Producto código HA 0306",
+    "category": "Tazas y vasos",
+    "image": "imagenes/HA 0306.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "HA 0307",
+    "name": "Producto código HA 0307",
+    "category": "Tazas y vasos",
+    "image": "imagenes/HA 0307.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "HA 0310",
+    "name": "Producto código HA 0310",
+    "category": "Tazas y vasos",
+    "image": "imagenes/HA 0310.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "HA 0311",
+    "name": "Producto código HA 0311",
+    "category": "Tazas y vasos",
+    "image": "imagenes/HA 0311.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "HA 0312",
+    "name": "Producto código HA 0312",
+    "category": "Tazas y vasos",
+    "image": "imagenes/HA 0312.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "HA 129",
+    "name": "Producto código HA 129",
+    "category": "Tazas y vasos",
+    "image": "imagenes/HA 129.png",
+    "price": null,
+    "sold": false
+  },
+  {
+    "code": "HA-0177",
+    "name": "Producto código HA-0177",
+    "category": "Tazas y vasos",
+    "image": "imagenes/HA-0177.png",
+    "price": null,
+    "sold": false
   }
 ]
