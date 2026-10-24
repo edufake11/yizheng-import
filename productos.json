@@ -2,7 +2,7 @@
   {
     "code": "10166",
     "name": "Mielero de vidrio con abejitas y cucharón de madera",
-    "category": "Frascos y recipientes",
+    "category": "Cocina y comedor",
     "image": "imagenes/p001.webp",
     "price": 10.5,
     "sold": false,
@@ -11,7 +11,7 @@
   {
     "code": "10171",
     "name": "Vaso de vidrio con lazo",
-    "category": "Tazas y vasos",
+    "category": "Tazas, vasos y bebidas",
     "image": "imagenes/p002.webp",
     "price": 10.5,
     "sold": false,
@@ -20,7 +20,7 @@
   {
     "code": "10335-1",
     "name": "Exhibidor giratorio para joyas de varios niveles",
-    "category": "Más productos",
+    "category": "Joyeros y exhibidores",
     "image": "imagenes/p003.webp",
     "price": 10.5,
     "sold": false,
@@ -29,7 +29,7 @@
   {
     "code": "10335-2",
     "name": "Exhibidor giratorio para joyas con base circular",
-    "category": "Más productos",
+    "category": "Joyeros y exhibidores",
     "image": "imagenes/p004.webp",
     "price": 9.5,
     "sold": false,
@@ -38,7 +38,7 @@
   {
     "code": "10342",
     "name": "Soporte para celular con amplificador de sonido",
-    "category": "Más productos",
+    "category": "Organización del hogar",
     "image": "imagenes/p005.webp",
     "price": 29.5,
     "sold": false,
@@ -47,7 +47,7 @@
   {
     "code": "10376",
     "name": "Vaso redondo de vidrio con base de madera",
-    "category": "Tazas y vasos",
+    "category": "Tazas, vasos y bebidas",
     "image": "imagenes/p006.webp",
     "price": 9.5,
     "sold": false,
@@ -56,7 +56,7 @@
   {
     "code": "10438",
     "name": "Vaso de vidrio",
-    "category": "Tazas y vasos",
+    "category": "Tazas, vasos y bebidas",
     "image": "imagenes/p007.webp",
     "price": 6.5,
     "sold": true,
@@ -65,7 +65,7 @@
   {
     "code": "10447",
     "name": "Taza de vidrio con lazo",
-    "category": "Tazas y vasos",
+    "category": "Tazas, vasos y bebidas",
     "image": "imagenes/p008.webp",
     "price": 6.5,
     "sold": true,
@@ -74,7 +74,7 @@
   {
     "code": "10449",
     "name": "Vaso de borocilicato con lazo",
-    "category": "Tazas y vasos",
+    "category": "Tazas, vasos y bebidas",
     "image": "imagenes/p009.webp",
     "price": 6.5,
     "sold": true,
@@ -83,7 +83,7 @@
   {
     "code": "10453",
     "name": "Vaso de borocilicato con lazo",
-    "category": "Tazas y vasos",
+    "category": "Tazas, vasos y bebidas",
     "image": "imagenes/p010.webp",
     "price": 8.5,
     "sold": true,
@@ -92,7 +92,7 @@
   {
     "code": "10456",
     "name": "Vaso de vidrio con sorbete y tapa de bambú",
-    "category": "Tazas y vasos",
+    "category": "Tazas, vasos y bebidas",
     "image": "imagenes/p011.webp",
     "price": 6.5,
     "sold": false,
@@ -101,7 +101,7 @@
   {
     "code": "10457",
     "name": "Vaso de vidrio con sorbete y tapa de bambú",
-    "category": "Tazas y vasos",
+    "category": "Tazas, vasos y bebidas",
     "image": "imagenes/p012.webp",
     "price": 6.5,
     "sold": false,
@@ -110,7 +110,7 @@
   {
     "code": "10458",
     "name": "Vaso de vidrio con asa, tapa de bambú y sorbete",
-    "category": "Tazas y vasos",
+    "category": "Tazas, vasos y bebidas",
     "image": "imagenes/p013.webp",
     "price": 5.5,
     "sold": true,
@@ -119,7 +119,7 @@
   {
     "code": "10459",
     "name": "Vaso redondo de vidrio con sorbete y soporte de madera",
-    "category": "Tazas y vasos",
+    "category": "Tazas, vasos y bebidas",
     "image": "imagenes/p014.webp",
     "price": 7.5,
     "sold": false,
@@ -128,7 +128,7 @@
   {
     "code": "6180",
     "name": "Organizador acrílico multiuso",
-    "category": "Más productos",
+    "category": "Organización del hogar",
     "image": "imagenes/p015.webp",
     "price": 11.5,
     "sold": false,
@@ -137,7 +137,7 @@
   {
     "code": "7264",
     "name": "Joyero organizador con compartimentos",
-    "category": "Más productos",
+    "category": "Joyeros y exhibidores",
     "image": "imagenes/p016.webp",
     "price": 12.5,
     "sold": false,
@@ -146,7 +146,7 @@
   {
     "code": "7607",
     "name": "Organizador multiuso",
-    "category": "Más productos",
+    "category": "Organización del hogar",
     "image": "imagenes/p017.webp",
     "price": 6.5,
     "sold": false,
@@ -155,7 +155,7 @@
   {
     "code": "7608-1",
     "name": "Organizador de escritorio",
-    "category": "Más productos",
+    "category": "Organización del hogar",
     "image": "imagenes/p018.webp",
     "price": 8.5,
     "sold": false,
@@ -164,7 +164,7 @@
   {
     "code": "7994",
     "name": "Dispensador de pañuelos de papel",
-    "category": "Más productos",
+    "category": "Organización del hogar",
     "image": "imagenes/p019.webp",
     "price": 10.5,
     "sold": true,
@@ -173,7 +173,7 @@
   {
     "code": "7995",
     "name": "Exhibidor para joyas",
-    "category": "Más productos",
+    "category": "Joyeros y exhibidores",
     "image": "imagenes/p020.webp",
     "price": 25.5,
     "sold": false,
@@ -182,7 +182,7 @@
   {
     "code": "7998",
     "name": "Organizador multiuso",
-    "category": "Más productos",
+    "category": "Organización del hogar",
     "image": "imagenes/p021.webp",
     "price": 18.5,
     "sold": false,
@@ -191,7 +191,7 @@
   {
     "code": "7999",
     "name": "Organizador multiuso",
-    "category": "Más productos",
+    "category": "Organización del hogar",
     "image": "imagenes/p022.webp",
     "price": 18.5,
     "sold": false,
@@ -200,7 +200,7 @@
   {
     "code": "8139-2",
     "name": "Organizador de hisopos y algodones",
-    "category": "Más productos",
+    "category": "Belleza y maquillaje",
     "image": "imagenes/p023.webp",
     "price": 5.5,
     "sold": false,
@@ -209,7 +209,7 @@
   {
     "code": "8139-4",
     "name": "Organizador de algodón con tapa transparente",
-    "category": "Más productos",
+    "category": "Belleza y maquillaje",
     "image": "imagenes/p024.webp",
     "price": 3.5,
     "sold": false,
@@ -218,7 +218,7 @@
   {
     "code": "8139-5",
     "name": "Organizador de hisopos con tapa transparente",
-    "category": "Más productos",
+    "category": "Belleza y maquillaje",
     "image": "imagenes/p025.webp",
     "price": 3.5,
     "sold": false,
@@ -227,7 +227,7 @@
   {
     "code": "8143-1",
     "name": "Joyero organizador",
-    "category": "Más productos",
+    "category": "Joyeros y exhibidores",
     "image": "imagenes/p026.webp",
     "price": 17.5,
     "sold": false,
@@ -236,7 +236,7 @@
   {
     "code": "8145-1",
     "name": "Joyero organizador",
-    "category": "Más productos",
+    "category": "Joyeros y exhibidores",
     "image": "imagenes/p027.webp",
     "price": 17.5,
     "sold": false,
@@ -245,7 +245,7 @@
   {
     "code": "8160",
     "name": "Organizador acrílico",
-    "category": "Más productos",
+    "category": "Organización del hogar",
     "image": "imagenes/p028.webp",
     "price": 6.5,
     "sold": false,
@@ -254,7 +254,7 @@
   {
     "code": "8162",
     "name": "Organizador para algodón",
-    "category": "Más productos",
+    "category": "Belleza y maquillaje",
     "image": "imagenes/p029.webp",
     "price": 7.5,
     "sold": false,
@@ -263,7 +263,7 @@
   {
     "code": "8164",
     "name": "Organizador para hisopos",
-    "category": "Más productos",
+    "category": "Belleza y maquillaje",
     "image": "imagenes/p030.webp",
     "price": 5.5,
     "sold": false,
@@ -272,7 +272,7 @@
   {
     "code": "8169",
     "name": "Organizador multiuso",
-    "category": "Más productos",
+    "category": "Organización del hogar",
     "image": "imagenes/p031.webp",
     "price": 8.5,
     "sold": false,
@@ -281,7 +281,7 @@
   {
     "code": "8176",
     "name": "Organizador multiuso",
-    "category": "Más productos",
+    "category": "Organización del hogar",
     "image": "imagenes/p032.webp",
     "price": 13.5,
     "sold": false,
@@ -290,7 +290,7 @@
   {
     "code": "8182",
     "name": "Organizador de hisopos",
-    "category": "Más productos",
+    "category": "Belleza y maquillaje",
     "image": "imagenes/p033.webp",
     "price": 4.5,
     "sold": false,
@@ -299,7 +299,7 @@
   {
     "code": "8191 o 9044-4",
     "name": "Organizador transparente con tapa y perilla dorada",
-    "category": "Más productos",
+    "category": "Organización del hogar",
     "image": "imagenes/p034.webp",
     "price": 6.5,
     "sold": false,
@@ -308,7 +308,7 @@
   {
     "code": "8391",
     "name": "Organizador para algodón",
-    "category": "Más productos",
+    "category": "Belleza y maquillaje",
     "image": "imagenes/p035.webp",
     "price": 5.5,
     "sold": false,
@@ -317,7 +317,7 @@
   {
     "code": "8394",
     "name": "Organizador multiuso",
-    "category": "Más productos",
+    "category": "Organización del hogar",
     "image": "imagenes/p036.webp",
     "price": 6.5,
     "sold": false,
@@ -326,7 +326,7 @@
   {
     "code": "8638",
     "name": "Organizador de labiales",
-    "category": "Más productos",
+    "category": "Belleza y maquillaje",
     "image": "imagenes/p037.webp",
     "price": 22.5,
     "sold": false,
@@ -335,7 +335,7 @@
   {
     "code": "9021",
     "name": "Organizador acrílico",
-    "category": "Más productos",
+    "category": "Organización del hogar",
     "image": "imagenes/p038.webp",
     "price": 6.5,
     "sold": false,
@@ -344,7 +344,7 @@
   {
     "code": "9022",
     "name": "Organizador acrílico",
-    "category": "Más productos",
+    "category": "Organización del hogar",
     "image": "imagenes/p039.webp",
     "price": 4.5,
     "sold": false,
@@ -353,7 +353,7 @@
   {
     "code": "9025",
     "name": "Juego de accesorios para baño",
-    "category": "Más productos",
+    "category": "Baño y cuidado personal",
     "image": "imagenes/p040.webp",
     "price": 12.5,
     "sold": false,
@@ -362,7 +362,7 @@
   {
     "code": "9026",
     "name": "Juego de accesorios para baño",
-    "category": "Más productos",
+    "category": "Baño y cuidado personal",
     "image": "imagenes/p041.webp",
     "price": 14.5,
     "sold": false,
@@ -371,7 +371,7 @@
   {
     "code": "9030",
     "name": "Juego de organizadores",
-    "category": "Más productos",
+    "category": "Organización del hogar",
     "image": "imagenes/p042.webp",
     "price": 5.5,
     "sold": false,
@@ -380,7 +380,7 @@
   {
     "code": "9031",
     "name": "Juego de organizadores",
-    "category": "Más productos",
+    "category": "Organización del hogar",
     "image": "imagenes/p043.webp",
     "price": 5.5,
     "sold": false,
@@ -389,7 +389,7 @@
   {
     "code": "9040",
     "name": "Estuche para cepillo de dientes",
-    "category": "Más productos",
+    "category": "Baño y cuidado personal",
     "image": "imagenes/p044.webp",
     "price": 5.5,
     "sold": false,
@@ -398,7 +398,7 @@
   {
     "code": "9042",
     "name": "Organizador multiuso",
-    "category": "Más productos",
+    "category": "Organización del hogar",
     "image": "imagenes/p045.webp",
     "price": 15.5,
     "sold": false,
@@ -407,7 +407,7 @@
   {
     "code": "9044-2 o 8189",
     "name": "Organizador rectangular transparente con tapa",
-    "category": "Más productos",
+    "category": "Organización del hogar",
     "image": "imagenes/p046.webp",
     "price": 11.5,
     "sold": false,
@@ -416,7 +416,7 @@
   {
     "code": "9044-3 o 8190",
     "name": "Organizador rectangular transparente con tapa, otro modelo",
-    "category": "Más productos",
+    "category": "Organización del hogar",
     "image": "imagenes/p047.webp",
     "price": 8.5,
     "sold": false,
@@ -425,7 +425,7 @@
   {
     "code": "9050",
     "name": "Estuche  para cepillo de dientes",
-    "category": "Más productos",
+    "category": "Baño y cuidado personal",
     "image": "imagenes/p048.webp",
     "price": 5.5,
     "sold": false,
@@ -434,7 +434,7 @@
   {
     "code": "9051",
     "name": "Estuche para cepillo de dientes",
-    "category": "Más productos",
+    "category": "Baño y cuidado personal",
     "image": "imagenes/p049.webp",
     "price": 5.5,
     "sold": false,
@@ -443,7 +443,7 @@
   {
     "code": "9111-1",
     "name": "Frasco de vidrio para pasta con tapa de bambú",
-    "category": "Frascos y recipientes",
+    "category": "Organización del hogar",
     "image": "imagenes/p050.webp",
     "price": 11.5,
     "sold": false,
@@ -452,7 +452,7 @@
   {
     "code": "9111-2",
     "name": "Frasco de vidrio para azúcar con tapa de bambú",
-    "category": "Frascos y recipientes",
+    "category": "Cocina y comedor",
     "image": "imagenes/p051.webp",
     "price": 10.5,
     "sold": false,
@@ -461,7 +461,7 @@
   {
     "code": "9111-3",
     "name": "Frasco de vidrio para sal rosada con tapa de bambú",
-    "category": "Frascos y recipientes",
+    "category": "Cocina y comedor",
     "image": "imagenes/p052.webp",
     "price": 9.5,
     "sold": false,
@@ -470,7 +470,7 @@
   {
     "code": "9117-3",
     "name": "Vaso de vidrio con tapa de bambú",
-    "category": "Tazas y vasos",
+    "category": "Tazas, vasos y bebidas",
     "image": "imagenes/p053.webp",
     "price": 3.5,
     "sold": false,
@@ -479,7 +479,7 @@
   {
     "code": "9119 o 8385",
     "name": "Set de dos frascos para especias con bandeja",
-    "category": "Frascos y recipientes",
+    "category": "Cocina y comedor",
     "image": "imagenes/p054.webp",
     "price": 15.5,
     "sold": false,
@@ -488,7 +488,7 @@
   {
     "code": "9150",
     "name": "Organizador de maquillaje",
-    "category": "Más productos",
+    "category": "Belleza y maquillaje",
     "image": "imagenes/p055.webp",
     "price": 12.5,
     "sold": false,
@@ -497,7 +497,7 @@
   {
     "code": "9160",
     "name": "Organizador acrílico",
-    "category": "Más productos",
+    "category": "Organización del hogar",
     "image": "imagenes/p056.webp",
     "price": 13.5,
     "sold": false,
@@ -506,7 +506,7 @@
   {
     "code": "9344",
     "name": "Organizador alargado transparente",
-    "category": "Más productos",
+    "category": "Organización del hogar",
     "image": "imagenes/p057.webp",
     "price": 6.5,
     "sold": false,
@@ -515,7 +515,7 @@
   {
     "code": "9346",
     "name": "Organizador transparente",
-    "category": "Más productos",
+    "category": "Organización del hogar",
     "image": "imagenes/p058.webp",
     "price": 6.5,
     "sold": false,
@@ -524,7 +524,7 @@
   {
     "code": "9488-1",
     "name": "Taza de vidrio con asa y tapa de bambú",
-    "category": "Tazas y vasos",
+    "category": "Tazas, vasos y bebidas",
     "image": "imagenes/p059.webp",
     "price": 14.5,
     "sold": false,
@@ -533,7 +533,7 @@
   {
     "code": "9502",
     "name": "Set de tres frascos para especias con bandeja",
-    "category": "Frascos y recipientes",
+    "category": "Cocina y comedor",
     "image": "imagenes/p060.webp",
     "price": 18.5,
     "sold": false,
@@ -542,7 +542,7 @@
   {
     "code": "9572",
     "name": "Vaso de vidrio",
-    "category": "Tazas y vasos",
+    "category": "Tazas, vasos y bebidas",
     "image": "imagenes/p061.webp",
     "price": 5.5,
     "sold": false,
@@ -551,7 +551,7 @@
   {
     "code": "9582",
     "name": "Taza de vidrio",
-    "category": "Tazas y vasos",
+    "category": "Tazas, vasos y bebidas",
     "image": "imagenes/p062.webp",
     "price": 8,
     "sold": false,
@@ -560,7 +560,7 @@
   {
     "code": "HA 0210",
     "name": "Cafetera de prensa francesa de vidrio con tapa de bambú",
-    "category": "Café y té",
+    "category": "Cocina y comedor",
     "image": "imagenes/p063.webp",
     "price": 10.5,
     "sold": false,
@@ -569,7 +569,7 @@
   {
     "code": "HA 0229",
     "name": "Frasco de vidrio con tapa de bambú y margaritas Good Morning",
-    "category": "Frascos y recipientes",
+    "category": "Organización del hogar",
     "image": "imagenes/p064.webp",
     "price": 4.5,
     "sold": false,
@@ -578,7 +578,7 @@
   {
     "code": "HA 0241",
     "name": "Juego de seis tazas de vidrio con margaritas Good Morning",
-    "category": "Tazas y vasos",
+    "category": "Tazas, vasos y bebidas",
     "image": "imagenes/p065.webp",
     "price": 9,
     "sold": false,
@@ -587,7 +587,7 @@
   {
     "code": "HA 0250 o 9578",
     "name": "Tetera de vidrio con infusor y margaritas Good Morning",
-    "category": "Café y té",
+    "category": "Cocina y comedor",
     "image": "imagenes/p066.webp",
     "price": 21.5,
     "sold": false,
@@ -596,7 +596,7 @@
   {
     "code": "HA 0251",
     "name": "Taza redonda de vidrio con margaritas Good Morning",
-    "category": "Tazas y vasos",
+    "category": "Tazas, vasos y bebidas",
     "image": "imagenes/p067.webp",
     "price": 4.5,
     "sold": false,
@@ -605,7 +605,7 @@
   {
     "code": "HA 0252",
     "name": "Mielero de vidrio con abejitas y cucharón de bambú",
-    "category": "Frascos y recipientes",
+    "category": "Cocina y comedor",
     "image": "imagenes/p068.webp",
     "price": 11.5,
     "sold": false,
@@ -614,7 +614,7 @@
   {
     "code": "HA 0253",
     "name": "Mielero de vidrio con cucharón de bambú",
-    "category": "Frascos y recipientes",
+    "category": "Cocina y comedor",
     "image": "imagenes/p069.webp",
     "price": 8.5,
     "sold": false,
@@ -623,7 +623,7 @@
   {
     "code": "HA0039",
     "name": "Frasco rectangular acrílico texturizado con tapa plateada",
-    "category": "Frascos y recipientes",
+    "category": "Organización del hogar",
     "image": "imagenes/p070.webp",
     "price": 3.5,
     "sold": false,
@@ -631,368 +631,368 @@
   },
   {
     "code": "10200",
-    "name": "Producto código 10200",
-    "category": "Más productos",
+    "name": "Escalera organizadora de 3 niveles",
+    "category": "Organización del hogar",
     "image": "imagenes/10200.png",
-    "price": null,
+    "price": 16.5,
     "sold": false
   },
   {
     "code": "10201",
-    "name": "Producto código 10201",
-    "category": "Más productos",
+    "name": "Escalera organizadora de 4 niveles",
+    "category": "Organización del hogar",
     "image": "imagenes/10201.png",
-    "price": null,
+    "price": 24.5,
     "sold": false
   },
   {
     "code": "10252",
-    "name": "Producto código 10252",
-    "category": "Más productos",
+    "name": "Porta papel toalla de bambú con figura de flor",
+    "category": "Organización del hogar",
     "image": "imagenes/10252.png",
-    "price": null,
+    "price": 8.5,
     "sold": false
   },
   {
     "code": "10253",
-    "name": "Producto código 10253",
-    "category": "Más productos",
+    "name": "Porta papel toalla de bambú",
+    "category": "Organización del hogar",
     "image": "imagenes/10253.png",
-    "price": null,
+    "price": 7.5,
     "sold": false
   },
   {
     "code": "10259-1",
-    "name": "Producto código 10259-1",
-    "category": "Más productos",
+    "name": "Tabla de picar de bambú de 32 cm",
+    "category": "Cocina y comedor",
     "image": "imagenes/10259-1.png",
-    "price": null,
+    "price": 7.5,
     "sold": false
   },
   {
     "code": "10259-2",
-    "name": "Producto código 10259-2",
-    "category": "Más productos",
+    "name": "Tabla de picar de bambú de 29 cm",
+    "category": "Cocina y comedor",
     "image": "imagenes/10259-2.png",
-    "price": null,
+    "price": 6.5,
     "sold": false
   },
   {
     "code": "10261-1",
-    "name": "Producto código 10261-1",
-    "category": "Más productos",
+    "name": "Bandeja de bambú grande",
+    "category": "Cocina y comedor",
     "image": "imagenes/10261-1.png",
-    "price": null,
+    "price": 9.5,
     "sold": false
   },
   {
     "code": "10261-2",
-    "name": "Producto código 10261-2",
-    "category": "Más productos",
+    "name": "Bandeja de bambú pequeña",
+    "category": "Cocina y comedor",
     "image": "imagenes/10261-2.png",
-    "price": null,
+    "price": 8.5,
     "sold": false
   },
   {
     "code": "10264",
-    "name": "Producto código 10264",
-    "category": "Más productos",
+    "name": "Bandeja plegable de bambú para brazo de mueble",
+    "category": "Cocina y comedor",
     "image": "imagenes/10264.png",
-    "price": null,
+    "price": 22.5,
     "sold": false
   },
   {
     "code": "10269",
-    "name": "Producto código 10269",
-    "category": "Más productos",
+    "name": "Servilletero de bambú",
+    "category": "Cocina y comedor",
     "image": "imagenes/10269.png",
-    "price": null,
+    "price": 7.5,
     "sold": false
   },
   {
     "code": "10272",
-    "name": "Producto código 10272",
-    "category": "Más productos",
+    "name": "Organizador de cuchillos de bambú",
+    "category": "Organización del hogar",
     "image": "imagenes/10272.png",
-    "price": null,
+    "price": 16.5,
     "sold": false
   },
   {
     "code": "10283",
-    "name": "Producto código 10283",
-    "category": "Más productos",
+    "name": "Bandeja plegable redonda para brazo de mueble",
+    "category": "Cocina y comedor",
     "image": "imagenes/10283.png",
-    "price": null,
+    "price": 21.5,
     "sold": false
   },
   {
     "code": "10345",
-    "name": "Producto código 10345",
-    "category": "Más productos",
+    "name": "Ensaladero portátil con compartimento para salsa",
+    "category": "Cocina y comedor",
     "image": "imagenes/10345.png",
-    "price": null,
+    "price": 10.5,
     "sold": false
   },
   {
     "code": "10379",
-    "name": "Producto código 10379",
-    "category": "Más productos",
+    "name": "Dispensadores de aceite y vinagre con base",
+    "category": "Cocina y comedor",
     "image": "imagenes/10379.png",
-    "price": null,
+    "price": 17.5,
     "sold": false
   },
   {
     "code": "10380",
-    "name": "Producto código 10380",
-    "category": "Más productos",
+    "name": "Azucarera de cerámica con tapa de bambú",
+    "category": "Otros productos",
     "image": "imagenes/10380.png",
-    "price": null,
+    "price": 21.5,
     "sold": false
   },
   {
     "code": "10386",
-    "name": "Producto código 10386",
-    "category": "Más productos",
+    "name": "Organizador de utensilios de cerámica",
+    "category": "Organización del hogar",
     "image": "imagenes/10386.png",
-    "price": null,
+    "price": 29.5,
     "sold": false
   },
   {
     "code": "10420-1",
-    "name": "Producto código 10420-1",
-    "category": "Más productos",
+    "name": "Organizador de madera para té con tapa transparente",
+    "category": "Cocina y comedor",
     "image": "imagenes/10420-1.png",
-    "price": null,
+    "price": 15.5,
     "sold": false
   },
   {
     "code": "10420-2",
-    "name": "Producto código 10420-2",
-    "category": "Más productos",
+    "name": "Organizador de madera para té con tres compartimentos",
+    "category": "Cocina y comedor",
     "image": "imagenes/10420-2.png",
-    "price": null,
+    "price": 12.5,
     "sold": false
   },
   {
     "code": "10420-3",
-    "name": "Producto código 10420-3",
-    "category": "Más productos",
+    "name": "Adorno de madera para llaves Welcome",
+    "category": "Otros productos",
     "image": "imagenes/10420-3.png",
-    "price": null,
-    "sold": false
+    "price": 12.5,
+    "sold": true
   },
   {
     "code": "10420-5",
-    "name": "Producto código 10420-5",
-    "category": "Más productos",
+    "name": "Set de seis posavasos de madera",
+    "category": "Cocina y comedor",
     "image": "imagenes/10420-5.png",
-    "price": null,
+    "price": 12.5,
     "sold": false
   },
   {
     "code": "10421-1",
-    "name": "Producto código 10421-1",
-    "category": "Más productos",
+    "name": "Organizador de madera para cápsulas de café",
+    "category": "Cocina y comedor",
     "image": "imagenes/10421-1.png",
-    "price": null,
+    "price": 15.5,
     "sold": false
   },
   {
     "code": "10421-2",
-    "name": "Producto código 10421-2",
-    "category": "Más productos",
+    "name": "Organizador de madera para té Home Sweet Home",
+    "category": "Cocina y comedor",
     "image": "imagenes/10421-2.png",
-    "price": null,
+    "price": 12.5,
     "sold": false
   },
   {
     "code": "10421-3",
-    "name": "Producto código 10421-3",
-    "category": "Más productos",
+    "name": "Adorno de madera para llaves Home",
+    "category": "Otros productos",
     "image": "imagenes/10421-3.png",
-    "price": null,
+    "price": 12.5,
     "sold": false
   },
   {
     "code": "10421-4",
-    "name": "Producto código 10421-4",
-    "category": "Más productos",
+    "name": "Organizador de cubiertos de madera",
+    "category": "Cocina y comedor",
     "image": "imagenes/10421-4.png",
-    "price": null,
+    "price": 20.5,
     "sold": false
   },
   {
     "code": "10421-5",
-    "name": "Producto código 10421-5",
-    "category": "Más productos",
+    "name": "Set de seis posavasos de madera Home Sweet",
+    "category": "Cocina y comedor",
     "image": "imagenes/10421-5.png",
-    "price": null,
+    "price": 12.5,
     "sold": false
   },
   {
     "code": "10422-1",
-    "name": "Producto código 10422-1",
-    "category": "Más productos",
+    "name": "Organizador de madera para té y cápsulas de café",
+    "category": "Cocina y comedor",
     "image": "imagenes/10422-1.png",
-    "price": null,
+    "price": 16.5,
     "sold": false
   },
   {
     "code": "10422-2",
-    "name": "Producto código 10422-2",
-    "category": "Más productos",
+    "name": "Organizador de madera para té con tapa transparente",
+    "category": "Cocina y comedor",
     "image": "imagenes/10422-2.png",
-    "price": null,
+    "price": 13.5,
     "sold": false
   },
   {
     "code": "10423-1",
-    "name": "Producto código 10423-1",
-    "category": "Más productos",
+    "name": "Organizador de madera para té de seis compartimentos",
+    "category": "Cocina y comedor",
     "image": "imagenes/10423-1.png",
-    "price": null,
+    "price": 16.5,
     "sold": false
   },
   {
     "code": "10423-2",
-    "name": "Producto código 10423-2",
-    "category": "Más productos",
+    "name": "Set de seis posavasos de madera Home Café",
+    "category": "Cocina y comedor",
     "image": "imagenes/10423-2.png",
-    "price": null,
+    "price": 12.5,
     "sold": false
   },
   {
     "code": "10423-3",
-    "name": "Producto código 10423-3",
-    "category": "Más productos",
+    "name": "Set de seis posavasos de madera con diseño de piña",
+    "category": "Cocina y comedor",
     "image": "imagenes/10423-3.png",
-    "price": null,
+    "price": 12.5,
     "sold": false
   },
   {
     "code": "10429",
-    "name": "Producto código 10429",
-    "category": "Más productos",
+    "name": "Set de mesa: servilletero, azucarera, sal y pimienta",
+    "category": "Cocina y comedor",
     "image": "imagenes/10429.png",
-    "price": null,
+    "price": 31.5,
     "sold": false
   },
   {
     "code": "10430",
-    "name": "Producto código 10430",
-    "category": "Más productos",
+    "name": "Organizador de utensilios de cerámica con base",
+    "category": "Organización del hogar",
     "image": "imagenes/10430.png",
-    "price": null,
+    "price": 39.5,
     "sold": false
   },
   {
     "code": "7605-1",
-    "name": "Producto código 7605-1",
-    "category": "Más productos",
+    "name": "Organizador de snacks de cuatro compartimentos color humo",
+    "category": "Cocina y comedor",
     "image": "imagenes/7605-1.png",
-    "price": null,
+    "price": 20.5,
     "sold": false
   },
   {
     "code": "7605-2",
-    "name": "Producto código 7605-2",
-    "category": "Más productos",
+    "name": "Organizador de snacks de cuatro compartimentos transparente",
+    "category": "Cocina y comedor",
     "image": "imagenes/7605-2.png",
-    "price": null,
+    "price": 20.5,
     "sold": false
   },
   {
     "code": "9162",
     "name": "Producto código 9162",
-    "category": "Más productos",
+    "category": "Otros productos",
     "image": "imagenes/9162.png",
     "price": null,
     "sold": false
   },
   {
     "code": "9409",
-    "name": "Producto código 9409",
-    "category": "Más productos",
+    "name": "Organizador de vasos de bambú",
+    "category": "Tazas, vasos y bebidas",
     "image": "imagenes/9409.png",
-    "price": null,
+    "price": 9.5,
     "sold": false
   },
   {
     "code": "9482",
-    "name": "Producto código 9482",
-    "category": "Más productos",
+    "name": "Limpiador eléctrico de brochas de maquillaje",
+    "category": "Belleza y maquillaje",
     "image": "imagenes/9482.png",
-    "price": null,
+    "price": 10.5,
     "sold": false
   },
   {
     "code": "9484",
-    "name": "Producto código 9484",
-    "category": "Más productos",
+    "name": "Mezclador automático para bebidas",
+    "category": "Cocina y comedor",
     "image": "imagenes/9484.png",
-    "price": null,
+    "price": 10.5,
     "sold": false
   },
   {
     "code": "9534-1",
-    "name": "Producto código 9534-1",
-    "category": "Más productos",
+    "name": "Frasco hermético de vidrio con tapa de bambú grande",
+    "category": "Cocina y comedor",
     "image": "imagenes/9534-1.png",
-    "price": null,
+    "price": 11.5,
     "sold": false
   },
   {
     "code": "9534-2",
-    "name": "Producto código 9534-2",
-    "category": "Más productos",
+    "name": "Frasco hermético de vidrio con tapa de bambú mediano",
+    "category": "Cocina y comedor",
     "image": "imagenes/9534-2.png",
-    "price": null,
+    "price": 10.5,
     "sold": false
   },
   {
     "code": "9534-3",
-    "name": "Producto código 9534-3",
-    "category": "Más productos",
+    "name": "Frasco hermético de vidrio con tapa de bambú pequeño",
+    "category": "Cocina y comedor",
     "image": "imagenes/9534-3.png",
-    "price": null,
+    "price": 9.5,
     "sold": false
   },
   {
     "code": "9543",
-    "name": "Producto código 9543",
-    "category": "Más productos",
+    "name": "Cabina de fotos LED de 30 cm",
+    "category": "Otros productos",
     "image": "imagenes/9543.png",
-    "price": null,
+    "price": 52.5,
     "sold": false
   },
   {
     "code": "9544",
-    "name": "Producto código 9544",
-    "category": "Más productos",
+    "name": "Cabina de fotos LED de 40 cm",
+    "category": "Otros productos",
     "image": "imagenes/9544.png",
-    "price": null,
+    "price": 75.0,
     "sold": false
   },
   {
     "code": "HA 0079",
-    "name": "Producto código HA 0079",
-    "category": "Tazas y vasos",
+    "name": "Servilletero de bambú y base blanca",
+    "category": "Cocina y comedor",
     "image": "imagenes/HA 0079.png",
-    "price": null,
+    "price": 7.5,
     "sold": false
   },
   {
     "code": "HA 0148-1",
-    "name": "Producto código HA 0148-1",
-    "category": "Tazas y vasos",
+    "name": "Set de tres recipientes herméticos con tapa de silicona",
+    "category": "Otros productos",
     "image": "imagenes/HA 0148-1.png",
-    "price": null,
+    "price": 26.5,
     "sold": false
   },
   {
     "code": "HA 0262",
     "name": "Producto código HA 0262",
-    "category": "Tazas y vasos",
+    "category": "Otros productos",
     "image": "imagenes/HA 0262.png",
     "price": null,
     "sold": false
@@ -1000,7 +1000,7 @@
   {
     "code": "HA 0263 o 9614",
     "name": "Producto código HA 0263 o 9614",
-    "category": "Tazas y vasos",
+    "category": "Otros productos",
     "image": "imagenes/HA 0263 o 9614.png",
     "price": null,
     "sold": false
@@ -1008,7 +1008,7 @@
   {
     "code": "HA 0264 o 9616",
     "name": "Producto código HA 0264 o 9616",
-    "category": "Tazas y vasos",
+    "category": "Otros productos",
     "image": "imagenes/HA 0264 o 9616.png",
     "price": null,
     "sold": false
@@ -1016,121 +1016,121 @@
   {
     "code": "HA 0265 o 9615",
     "name": "Producto código HA 0265 o 9615",
-    "category": "Tazas y vasos",
+    "category": "Otros productos",
     "image": "imagenes/HA 0265 o 9615.png",
     "price": null,
     "sold": false
   },
   {
     "code": "HA 0289",
-    "name": "Producto código HA 0289",
-    "category": "Tazas y vasos",
+    "name": "Organizador giratorio de maquillaje",
+    "category": "Belleza y maquillaje",
     "image": "imagenes/HA 0289.png",
-    "price": null,
+    "price": 17.5,
     "sold": false
   },
   {
     "code": "HA 0290",
-    "name": "Producto código HA 0290",
-    "category": "Tazas y vasos",
+    "name": "Organizador giratorio de maquillaje y brochas",
+    "category": "Belleza y maquillaje",
     "image": "imagenes/HA 0290.png",
-    "price": null,
+    "price": 13.5,
     "sold": false
   },
   {
     "code": "HA 0292",
     "name": "Producto código HA 0292",
-    "category": "Tazas y vasos",
+    "category": "Otros productos",
     "image": "imagenes/HA 0292.png",
     "price": null,
     "sold": false
   },
   {
     "code": "HA 0301",
-    "name": "Producto código HA 0301",
-    "category": "Tazas y vasos",
+    "name": "Vinchas de Halloween con luz",
+    "category": "Fiestas y temporada",
     "image": "imagenes/HA 0301.png",
-    "price": null,
+    "price": 24.5,
     "sold": false
   },
   {
     "code": "HA 0302",
-    "name": "Producto código HA 0302",
-    "category": "Tazas y vasos",
+    "name": "Vinchas de Halloween sin luz",
+    "category": "Fiestas y temporada",
     "image": "imagenes/HA 0302.png",
-    "price": null,
+    "price": 16.5,
     "sold": false
   },
   {
     "code": "HA 0304",
-    "name": "Producto código HA 0304",
-    "category": "Tazas y vasos",
+    "name": "Vinchas de Halloween con murciélagos",
+    "category": "Fiestas y temporada",
     "image": "imagenes/HA 0304.png",
-    "price": null,
+    "price": 38.5,
     "sold": false
   },
   {
     "code": "HA 0305",
-    "name": "Producto código HA 0305",
-    "category": "Tazas y vasos",
+    "name": "Vinchas de Halloween con plumas",
+    "category": "Fiestas y temporada",
     "image": "imagenes/HA 0305.png",
-    "price": null,
+    "price": 30.5,
     "sold": false
   },
   {
     "code": "HA 0306",
-    "name": "Producto código HA 0306",
-    "category": "Tazas y vasos",
+    "name": "Sombreros de bruja de Halloween",
+    "category": "Fiestas y temporada",
     "image": "imagenes/HA 0306.png",
-    "price": null,
+    "price": 21.5,
     "sold": false
   },
   {
     "code": "HA 0307",
-    "name": "Producto código HA 0307",
-    "category": "Tazas y vasos",
+    "name": "Sombreros de bruja de Halloween con diseños",
+    "category": "Fiestas y temporada",
     "image": "imagenes/HA 0307.png",
-    "price": null,
+    "price": 21.5,
     "sold": false
   },
   {
     "code": "HA 0310",
-    "name": "Producto código HA 0310",
-    "category": "Tazas y vasos",
+    "name": "Peluca larga de colores",
+    "category": "Fiestas y temporada",
     "image": "imagenes/HA 0310.png",
-    "price": null,
+    "price": 66.0,
     "sold": false
   },
   {
     "code": "HA 0311",
-    "name": "Producto código HA 0311",
-    "category": "Tazas y vasos",
+    "name": "Peluca corta de colores",
+    "category": "Fiestas y temporada",
     "image": "imagenes/HA 0311.png",
-    "price": null,
+    "price": 58.5,
     "sold": false
   },
   {
     "code": "HA 0312",
-    "name": "Producto código HA 0312",
-    "category": "Tazas y vasos",
+    "name": "Máscara LED de Halloween",
+    "category": "Fiestas y temporada",
     "image": "imagenes/HA 0312.png",
-    "price": null,
+    "price": 7.5,
     "sold": false
   },
   {
     "code": "HA 129",
-    "name": "Producto código HA 129",
-    "category": "Tazas y vasos",
+    "name": "Dispensador de papel film y cortador de bambú",
+    "category": "Cocina y comedor",
     "image": "imagenes/HA 129.png",
-    "price": null,
+    "price": 18.5,
     "sold": false
   },
   {
     "code": "HA-0177",
-    "name": "Producto código HA-0177",
-    "category": "Tazas y vasos",
+    "name": "Dispensador de miel con gatillo",
+    "category": "Cocina y comedor",
     "image": "imagenes/HA-0177.png",
-    "price": null,
+    "price": 7.5,
     "sold": false
   }
 ]
