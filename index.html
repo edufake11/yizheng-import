@@ -100,6 +100,14 @@ input.qi::-webkit-outer-spin-button,input.qi::-webkit-inner-spin-button{-webkit-
 .lb-actions .qty .qb{min-height:50px}
 .lb-close{position:absolute;top:12px;right:12px;width:46px;height:46px;border:0;border-radius:50%;background:#fff;font-size:24px;color:var(--ink)}
 
+/* flechas, popular */
+.lb-nav{position:fixed;top:50%;transform:translateY(-50%);z-index:2;width:46px;height:46px;border:0;border-radius:50%;background:#ffffffe6;color:var(--ink);font-size:30px;line-height:1;padding:0 0 4px;display:grid;place-items:center}
+.lb-nav:disabled{opacity:.3}
+.lb-prev{left:10px}.lb-next{right:10px}
+.photo-btn{position:relative}
+.pop-badge{position:absolute;top:8px;left:8px;background:#e8590c;color:#fff;font-size:11px;font-weight:800;border-radius:99px;padding:4px 10px;box-shadow:0 4px 10px #0003}
+.popular{margin:0 0 34px}
+.popular .sub{margin:-6px 0 14px;color:var(--muted);font-size:14px}
 /* aviso */
 .toast{position:fixed;left:50%;bottom:calc(86px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);background:#102b31;color:#fff;padding:10px 18px;border-radius:99px;font-size:14px;opacity:0;pointer-events:none;transition:opacity .2s;z-index:30;white-space:nowrap}
 .toast.show{opacity:1}
@@ -161,16 +169,25 @@ input.qi::-webkit-outer-spin-button,input.qi::-webkit-inner-spin-button{-webkit-
   .drawer{width:100%;padding:18px;padding-bottom:calc(18px + env(safe-area-inset-bottom,0px))}
   .toast{bottom:calc(80px + env(safe-area-inset-bottom,0px))}
   .lb-inner img{max-height:52dvh}
+  .lb-nav{top:34%;width:42px;height:42px}
+  .lb-prev{left:6px}.lb-next{right:6px}
 }
 @media(prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}html{scroll-behavior:auto}}
-</style></head><body><div class="top">YIZHENG IMPORT · VENTAS POR MAYOR Y MENOR · LIMA, PERÚ</div><header class="nav"><div class="wrap"><a href="#inicio" class="brand"><img src="logo.jpg" alt="Logo de YIZHENG IMPORT" style="height:52px;max-width:170px;object-fit:contain;vertical-align:middle;margin-right:10px">YIZHENG <span>IMPORT</span></a><div class="links"><a href="#catalogo">Catálogo</a><a href="#nosotros">Nosotros</a><a href="#contacto">Contacto</a><button class="pill" id="cartButton">Consultas <span id="cartCount">(0)</span></button></div><button class="menu-btn" id="menuBtn" type="button" aria-label="Abrir menú" aria-expanded="false" aria-controls="mobileMenu">☰</button></div><div class="mobile-menu" id="mobileMenu" hidden><a href="#catalogo">Catálogo</a><a href="#nosotros">Nosotros</a><a href="#contacto">Contacto</a><a href="https://maps.app.goo.gl/GHwrE2H2a6AiTUVKA" target="_blank" rel="noopener">📍 Cómo llegar</a><a href="https://www.tiktok.com/@yizhengimport" target="_blank" rel="noopener">🎵 TikTok</a></div></header><nav class="category-nav" aria-label="Ir a categorías"><div class="wrap category-nav-inner"><span class="category-nav-label">Categorías:</span><div id="topCategoryLinks" class="category-nav-links"></div></div></nav><section class="hero" id="inicio"><div class="wrap"><div><div class="eyebrow">Detalles para cada espacio</div><h1>Encuentra algo especial para tu hogar.</h1><p>Explora nuestros productos con precios del catálogo, encuentra cada modelo por su código y consulta disponibilidad por WhatsApp.</p><div class="hero-facts"><span>📍 Galería Guizado Hnos., piso 5</span><span>🕙 Lun a Sáb · 10:15 am – 8:00 pm</span></div><div class="hero-ctas"><a href="#catalogo">Ver catálogo ↓</a><a class="ghost" href="https://maps.app.goo.gl/GHwrE2H2a6AiTUVKA" target="_blank" rel="noopener">Cómo llegar</a></div></div><div class="hero-collage" id="heroCollage"><img id="heroImage" src="logo.jpg" alt="Logo de YIZHENG IMPORT" class="hero-logo"></div></div></section><section class="info-strip" aria-label="Cómo comprar"><div class="wrap info-grid"><div class="info-card"><span class="ic">🛍️</span><h3>Compra por menor</h3><p>Lleva desde una unidad al precio del catálogo. Arma tu lista y consulta la disponibilidad.</p></div><div class="info-card"><span class="ic">📦</span><h3>Compra por mayor</h3><p>Los precios del catálogo son los mismos por mayor y por menor. Indica las cantidades en tu lista y confirmamos disponibilidad por WhatsApp.</p></div><div class="info-card"><span class="ic">🕙</span><h3>Horario de atención</h3><p>Lunes a sábado<br>10:15 am a 8:00 pm<br>Galería Guizado Hnos., piso 5</p></div></div></section><main><section class="section" id="catalogo"><div class="wrap"><div class="head"><div><div class="eyebrow" style="color:var(--teal)">Nuestra selección</div><h2>Catálogo de productos</h2><div class="sub">Cada código identifica un producto individual, incluso si su diseño es similar.</div></div><div class="count" id="count"></div></div><div class="controls"><input id="search" type="search" aria-label="Buscar productos" placeholder="Buscar por código o nombre" enterkeyhint="search"><select id="sort" aria-label="Ordenar"><option value="default">Orden original</option><option value="az">Código A–Z</option><option value="za">Código Z–A</option></select><label class="avail"><input type="checkbox" id="onlyAvail"> Solo disponibles</label></div><div class="grid" id="grid"></div><div class="empty" id="empty">Cargando catálogo…</div></div></section><section class="section about" id="nosotros"><div class="wrap aboutgrid"><div><div class="eyebrow" style="color:var(--teal)">Conócenos</div><h2>YIZHENG IMPORT</h2><p>Artículos para el hogar, cocina, organización y novedades. Explora nuestro catálogo y escríbenos indicando el código del producto que te interesa.</p><p>Los precios del catálogo 2026 aplican tanto para compras por mayor como por menor. Stock y disponibilidad sujetos a confirmación.</p></div><div class="location" id="contacto"><h2>Visítanos</h2><p><strong>Galería Comercial Guizado Hnos.</strong><br>Piso 5, stands 514 y 515<br>Lima, Perú</p><p class="hours"><strong>Horario de atención</strong><br>Lunes a sábado, de 10:15 am a 8:00 pm</p><div class="contact-actions"><a class="pill" id="contactLink" target="_blank" rel="noopener"><img src="wa.jpg" alt="" aria-hidden="true" class="wa-ico">Consultar por WhatsApp</a><a class="pill outline" href="https://maps.app.goo.gl/GHwrE2H2a6AiTUVKA" target="_blank" rel="noopener">📍 Cómo llegar</a><a class="pill outline" href="https://www.tiktok.com/@yizhengimport" target="_blank" rel="noopener">🎵 TikTok</a></div></div></div></section><section class="section" aria-label="Productos para el hogar en Lima"><div class="wrap"><h2>Artículos para el hogar y organizadores por mayor y menor en Lima</h2><p>En YIZHENG IMPORT encontrarás organizadores de maquillaje y acrílicos, accesorios para baño, tazas y vasos de vidrio, cafeteras, teteras, mieleros y frascos para cocina. Consulta cada producto por su código, revisa el precio del catálogo y solicita información por WhatsApp.</p><p>Atendemos consultas de compras por mayor y menor en Lima, Perú. La disponibilidad de cada modelo se indica en el catálogo.</p></div></section></main><footer><div class="wrap foot"><strong>YIZHENG IMPORT</strong><span>Catálogo 2026 · Precios y stock sujetos a confirmación</span><span class="foot-links"><a href="https://maps.app.goo.gl/GHwrE2H2a6AiTUVKA" target="_blank" rel="noopener">Ubicación</a><a href="https://www.tiktok.com/@yizhengimport" target="_blank" rel="noopener">TikTok</a><a href="#contacto">Contacto</a></span></div></footer><div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-label="Foto del producto" hidden><button class="lb-close" id="lbClose" type="button" aria-label="Cerrar foto">×</button><div class="lb-inner"><img id="lbImg" alt=""><div class="lb-cap"><span class="lb-cat" id="lbCat"></span><strong id="lbName"></strong><span class="lb-price" id="lbPrice"></span><span id="lbMeta"></span></div><div class="lb-actions" id="lbActions"></div></div></div><div class="toast" id="toast" role="status" aria-live="polite"></div><button class="pill floating" id="floatingCart" type="button" aria-label="Abrir mi lista de consultas">🛒 Consultas <span id="floatingCount">0</span></button><div class="drawerbg" id="drawerbg"><aside class="drawer" role="dialog" aria-modal="true" aria-label="Lista de consultas"><div class="drawerheader"><h2>Mi lista de consultas</h2><button class="close" id="close" aria-label="Cerrar">×</button></div><p class="sub">Agrega los productos, elige las cantidades y envía la lista por WhatsApp.</p><div class="basket" id="basket"></div><div class="basket-total" id="basketTotal" hidden></div><button class="pill full" id="send">Enviar consulta por WhatsApp</button><button class="pill secondary full" id="clear">Vaciar lista</button></aside></div><script>
+</style></head><body><div class="top">YIZHENG IMPORT · VENTAS POR MAYOR Y MENOR · LIMA, PERÚ</div><header class="nav"><div class="wrap"><a href="#inicio" class="brand"><img src="logo.jpg" alt="Logo de YIZHENG IMPORT" style="height:52px;max-width:170px;object-fit:contain;vertical-align:middle;margin-right:10px">YIZHENG <span>IMPORT</span></a><div class="links"><a href="#catalogo">Catálogo</a><a href="#nosotros">Nosotros</a><a href="#contacto">Contacto</a><button class="pill" id="cartButton">Consultas <span id="cartCount">(0)</span></button></div><button class="menu-btn" id="menuBtn" type="button" aria-label="Abrir menú" aria-expanded="false" aria-controls="mobileMenu">☰</button></div><div class="mobile-menu" id="mobileMenu" hidden><a href="#catalogo">Catálogo</a><a href="#nosotros">Nosotros</a><a href="#contacto">Contacto</a><a href="https://maps.app.goo.gl/GHwrE2H2a6AiTUVKA" target="_blank" rel="noopener">📍 Cómo llegar</a><a href="https://www.tiktok.com/@yizhengimport" target="_blank" rel="noopener">🎵 TikTok</a></div></header><nav class="category-nav" aria-label="Ir a categorías"><div class="wrap category-nav-inner"><span class="category-nav-label">Categorías:</span><div id="topCategoryLinks" class="category-nav-links"></div></div></nav><section class="hero" id="inicio"><div class="wrap"><div><div class="eyebrow">Detalles para cada espacio</div><h1>Encuentra algo especial para tu hogar.</h1><p>Explora nuestros productos con precios del catálogo, encuentra cada modelo por su código y consulta disponibilidad por WhatsApp.</p><div class="hero-facts"><span>📍 Galería Guizado Hnos., piso 5</span><span>🕙 Lun a Sáb · 10:15 am – 8:00 pm</span></div><div class="hero-ctas"><a href="#catalogo">Ver catálogo ↓</a><a class="ghost" href="https://maps.app.goo.gl/GHwrE2H2a6AiTUVKA" target="_blank" rel="noopener">Cómo llegar</a></div></div><div class="hero-collage" id="heroCollage"><img id="heroImage" src="logo.jpg" alt="Logo de YIZHENG IMPORT" class="hero-logo"></div></div></section><section class="info-strip" aria-label="Cómo comprar"><div class="wrap info-grid"><div class="info-card"><span class="ic">🛍️</span><h3>Compra por menor</h3><p>Lleva desde una unidad al precio del catálogo. Arma tu lista y consulta la disponibilidad.</p></div><div class="info-card"><span class="ic">📦</span><h3>Compra por mayor</h3><p>Los precios del catálogo son los mismos por mayor y por menor. Indica las cantidades en tu lista y confirmamos disponibilidad por WhatsApp.</p></div><div class="info-card"><span class="ic">🕙</span><h3>Horario de atención</h3><p>Lunes a sábado<br>10:15 am a 8:00 pm<br>Galería Guizado Hnos., piso 5</p></div></div></section><main><section class="section" id="catalogo"><div class="wrap"><div class="head"><div><div class="eyebrow" style="color:var(--teal)">Nuestra selección</div><h2>Catálogo de productos</h2><div class="sub">Cada código identifica un producto individual, incluso si su diseño es similar.</div></div><div class="count" id="count"></div></div><div class="controls"><input id="search" type="search" aria-label="Buscar productos" placeholder="Buscar por código o nombre" enterkeyhint="search"><select id="sort" aria-label="Ordenar"><option value="default">Orden original</option><option value="az">Código A–Z</option><option value="za">Código Z–A</option></select><label class="avail"><input type="checkbox" id="onlyAvail"> Solo disponibles</label></div><div id="popular"></div><div class="grid" id="grid"></div><div class="empty" id="empty">Cargando catálogo…</div></div></section><section class="section about" id="nosotros"><div class="wrap aboutgrid"><div><div class="eyebrow" style="color:var(--teal)">Conócenos</div><h2>YIZHENG IMPORT</h2><p>Artículos para el hogar, cocina, organización y novedades. Explora nuestro catálogo y escríbenos indicando el código del producto que te interesa.</p><p>Los precios del catálogo 2026 aplican tanto para compras por mayor como por menor. Stock y disponibilidad sujetos a confirmación.</p></div><div class="location" id="contacto"><h2>Visítanos</h2><p><strong>Galería Comercial Guizado Hnos.</strong><br>Piso 5, stands 514 y 515<br>Lima, Perú</p><p class="hours"><strong>Horario de atención</strong><br>Lunes a sábado, de 10:15 am a 8:00 pm</p><div class="contact-actions"><a class="pill" id="contactLink" target="_blank" rel="noopener"><img src="wa.jpg" alt="" aria-hidden="true" class="wa-ico">Consultar por WhatsApp</a><a class="pill outline" href="https://maps.app.goo.gl/GHwrE2H2a6AiTUVKA" target="_blank" rel="noopener">📍 Cómo llegar</a><a class="pill outline" href="https://www.tiktok.com/@yizhengimport" target="_blank" rel="noopener">🎵 TikTok</a></div></div></div></section><section class="section" aria-label="Productos para el hogar en Lima"><div class="wrap"><h2>Artículos para el hogar y organizadores por mayor y menor en Lima</h2><p>En YIZHENG IMPORT encontrarás organizadores de maquillaje y acrílicos, accesorios para baño, tazas y vasos de vidrio, cafeteras, teteras, mieleros y frascos para cocina. Consulta cada producto por su código, revisa el precio del catálogo y solicita información por WhatsApp.</p><p>Atendemos consultas de compras por mayor y menor en Lima, Perú. La disponibilidad de cada modelo se indica en el catálogo.</p></div></section></main><footer><div class="wrap foot"><strong>YIZHENG IMPORT</strong><span>Catálogo 2026 · Precios y stock sujetos a confirmación</span><span class="foot-links"><a href="https://maps.app.goo.gl/GHwrE2H2a6AiTUVKA" target="_blank" rel="noopener">Ubicación</a><a href="https://www.tiktok.com/@yizhengimport" target="_blank" rel="noopener">TikTok</a><a href="#contacto">Contacto</a></span></div></footer><div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-label="Foto del producto" hidden><button class="lb-nav lb-prev" id="lbPrev" type="button" aria-label="Producto anterior">‹</button><button class="lb-nav lb-next" id="lbNext" type="button" aria-label="Producto siguiente">›</button><button class="lb-close" id="lbClose" type="button" aria-label="Cerrar foto">×</button><div class="lb-inner"><img id="lbImg" alt=""><div class="lb-cap"><span class="lb-cat" id="lbCat"></span><strong id="lbName"></strong><span class="lb-price" id="lbPrice"></span><span id="lbMeta"></span></div><div class="lb-actions" id="lbActions"></div></div></div><div class="toast" id="toast" role="status" aria-live="polite"></div><button class="pill floating" id="floatingCart" type="button" aria-label="Abrir mi lista de consultas">🛒 Consultas <span id="floatingCount">0</span></button><div class="drawerbg" id="drawerbg"><aside class="drawer" role="dialog" aria-modal="true" aria-label="Lista de consultas"><div class="drawerheader"><h2>Mi lista de consultas</h2><button class="close" id="close" aria-label="Cerrar">×</button></div><p class="sub">Agrega los productos, elige las cantidades y envía la lista por WhatsApp.</p><div class="basket" id="basket"></div><div class="basket-total" id="basketTotal" hidden></div><button class="pill full" id="send">Enviar consulta por WhatsApp</button><button class="pill secondary full" id="clear">Vaciar lista</button></aside></div><script>
 const PHONE='51960319600';
 const MAPS='https://maps.app.goo.gl/GHwrE2H2a6AiTUVKA';
 const $=s=>document.querySelector(s);
 const h=(tag,cls,text)=>{const e=document.createElement(tag);if(cls)e.className=cls;if(text!=null)e.textContent=text;return e};
 const money=n=>'S/ '+Number(n).toFixed(2);
+const norm=t=>String(t).toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'');
+
+/* Contador de vistas (opcional). Pega aquí la URL de tu Google Apps Script
+   (ver contador-vistas.gs). Si queda vacío, la función "Lo más visto" no se muestra. */
+const STATS_URL='https://script.google.com/macros/s/AKfycbyDx0kyoO_B4JeLCNf4u-8V0rpacZx36QFJmEqoBhUMsKQ_R1_2G2qbRujPGUCFzXcM/exec';
+const MIN_VIEWS=5;   // vistas mínimas para aparecer como popular
 
 let PRODUCTS=[],cats=['Todos'],selected='Todos';
+let POP={},popular=new Set(),topList=[],shownList=[];
 let basket=[];
 try{
   basket=(JSON.parse(localStorage.getItem('yi_basket')||'[]')||[]).map(x=>typeof x==='string'
@@ -225,28 +242,32 @@ function actions(p,key){
   fn();sync.set(key||p.code,fn);
   return wrap;
 }
-function card(p){
+function card(p,key,list){
   const a=h('article','card'+(p.sold?' is-sold':''));
   const pb=h('button','photo-btn');pb.type='button';pb.setAttribute('aria-label','Ampliar foto de '+p.name);
   const img=h('img','photo');img.src=p.image;img.alt=p.name+' · '+p.code;img.loading='lazy';img.decoding='async';img.width=600;img.height=672;
-  pb.append(img);pb.onclick=()=>openLightbox(p);
+  pb.append(img);if(popular.has(p.code))pb.append(h('span','pop-badge','🔥 Popular'));
+  pb.onclick=()=>openLightbox(p,list||shownList);
   const info=h('div','info');
   const code=h('span','code','Código: '+p.code);
   const name=h('h3',null,p.name);
   const price=h('div','price',p.price!=null?money(p.price):'Consultar precio');
-  if(p.sold)info.append(code,h('span','sold','AGOTADO'),name,price,actions(p));
-  else info.append(code,name,price,actions(p));
+  if(p.sold)info.append(code,h('span','sold','AGOTADO'),name,price,actions(p,key));
+  else info.append(code,name,price,actions(p,key));
   a.append(pb,info);
   return a;
 }
 function render(){
   sync.clear();
-  const q=$('#search').value.trim().toLowerCase();
+  const words=norm($('#search').value).split(/\s+/).filter(Boolean);
   const only=$('#onlyAvail').checked;
-  let shown=PRODUCTS.filter(p=>(selected==='Todos'||p.category===selected)&&(!only||!p.sold)&&(p.code+' '+p.name).toLowerCase().includes(q));
+  let shown=PRODUCTS.filter(p=>(selected==='Todos'||p.category===selected)&&(!only||!p.sold)&&words.every(w=>p._s.includes(w)));
   const s=$('#sort').value;
-  if(s!=='default')shown.sort((a,b)=>(s==='az'?1:-1)*a.code.localeCompare(b.code,undefined,{numeric:true}));
+  if(s==='pop')shown.sort((a,b)=>(POP[b.code]||0)-(POP[a.code]||0));
+  else if(s!=='default')shown.sort((a,b)=>(s==='az'?1:-1)*a.code.localeCompare(b.code,undefined,{numeric:true}));
   shown=[...shown.filter(p=>!p.sold),...shown.filter(p=>p.sold)]; // agotados al final
+  shownList=shown;
+  renderPopular(!words.length&&selected==='Todos'&&!$('#onlyAvail').checked);
   $('#count').textContent=shown.length+(shown.length===1?' producto':' productos');
   const empty=$('#empty');empty.textContent='No encontramos productos con esa búsqueda.';empty.hidden=shown.length>0;
   const groups=selected==='Todos'
@@ -260,6 +281,42 @@ function render(){
     sec.append(h('h3','product-section-title',g.category+' ('+g.items.length+')'),gg);
     grid.append(sec);
   }
+}
+
+/* ---------- lo más visto ---------- */
+function renderPopular(allowed){
+  const box=$('#popular');box.replaceChildren();
+  if(!allowed||topList.length<3)return;
+  const sec=h('section','popular');
+  const gg=h('div','grid');
+  const items=topList.slice(0,6);
+  gg.replaceChildren(...items.map(p=>card(p,'pop:'+p.code,items)));
+  sec.append(h('h3','product-section-title','🔥 Lo más visto'),h('p','sub','Los productos que más están mirando nuestros clientes.'),gg);
+  box.append(sec);
+}
+function computePopular(){
+  topList=PRODUCTS.filter(p=>!p.sold&&(POP[p.code]||0)>=MIN_VIEWS).sort((a,b)=>POP[b.code]-POP[a.code]).slice(0,8);
+  popular=new Set(topList.map(p=>p.code));
+  if(topList.length>=3&&!$('#popOpt')){const o=h('option',null,'Más populares');o.value='pop';o.id='popOpt';$('#sort').append(o)}
+}
+function loadPopular(){
+  if(!STATS_URL)return;
+  let cached=null;
+  try{cached=JSON.parse(sessionStorage.getItem('yi_pop')||'null')}catch(e){}
+  const apply=d=>{POP=d||{};computePopular();render()};
+  if(cached&&Date.now()-cached.t<600000){apply(cached.d);return}
+  fetch(STATS_URL+'?a=top').then(r=>r.json()).then(d=>{
+    try{sessionStorage.setItem('yi_pop',JSON.stringify({t:Date.now(),d}))}catch(e){}
+    apply(d);
+  }).catch(()=>{});
+}
+let seen={};try{seen=JSON.parse(localStorage.getItem('yi_seen')||'{}')}catch(e){}
+function trackView(code){
+  if(!STATS_URL)return;
+  const day=new Date().toISOString().slice(0,10);
+  if(seen[code]===day)return;           // una vista por producto, por persona y por día
+  seen[code]=day;try{localStorage.setItem('yi_seen',JSON.stringify(seen))}catch(e){}
+  fetch(STATS_URL+'?a=hit&c='+encodeURIComponent(code),{mode:'no-cors',keepalive:true}).catch(()=>{});
 }
 
 /* ---------- menú de categorías ---------- */
@@ -331,18 +388,37 @@ $('#send').onclick=()=>{
 
 /* ---------- foto ampliada ---------- */
 let lbFrom=null;
-function openLightbox(p){
-  lbFrom=document.activeElement;
+let lbList=[],lbIdx=0,viewTimer;
+function showLb(i){
+  const p=lbList[i];if(!p)return;lbIdx=i;
   $('#lbImg').src=p.image;$('#lbImg').alt=p.name;
   $('#lbName').textContent=p.name;
   $('#lbCat').textContent=p.category;
   $('#lbPrice').textContent=p.price!=null?money(p.price):'Consultar precio';
-  $('#lbMeta').textContent='Código: '+p.code+(p.sold?' · Agotado':' · Disponible');
+  $('#lbMeta').textContent='Código: '+p.code+(p.sold?' · Agotado':' · Disponible')+(popular.has(p.code)?' · 🔥 Popular':'');
   $('#lbActions').replaceChildren(actions(p,'lb'));
+  const multi=lbList.length>1;
+  $('#lbPrev').hidden=$('#lbNext').hidden=!multi;
+  $('#lbPrev').disabled=i<=0;$('#lbNext').disabled=i>=lbList.length-1;
+  clearTimeout(viewTimer);viewTimer=setTimeout(()=>trackView(p.code),1200); // cuenta si se queda mirando
+}
+function openLightbox(p,list){
+  lbFrom=document.activeElement;
+  lbList=(list&&list.includes(p))?list:[p];
+  showLb(lbList.indexOf(p));
   $('#lightbox').hidden=false;document.body.classList.add('noscroll');$('#lbClose').focus();
 }
+function lbStep(d){const i=lbIdx+d;if(i>=0&&i<lbList.length)showLb(i)}
+$('#lbPrev').onclick=()=>lbStep(-1);
+$('#lbNext').onclick=()=>lbStep(1);
+let tx=null;
+$('#lightbox').addEventListener('touchstart',e=>{tx=e.touches[0].clientX},{passive:true});
+$('#lightbox').addEventListener('touchend',e=>{
+  if(tx===null)return;const dx=e.changedTouches[0].clientX-tx;tx=null;
+  if(Math.abs(dx)>60)lbStep(dx<0?1:-1);
+},{passive:true});
 function closeLightbox(){
-  $('#lightbox').hidden=true;sync.delete('lb');
+  clearTimeout(viewTimer);$('#lightbox').hidden=true;sync.delete('lb');
   if(!$('#drawerbg').classList.contains('show'))document.body.classList.remove('noscroll');
   if(lbFrom&&lbFrom.focus)lbFrom.focus({preventScroll:true});
 }
@@ -356,6 +432,7 @@ mb.onclick=()=>setMenu(mm.hidden);
 mm.addEventListener('click',e=>{if(e.target.closest('a'))setMenu(false)});
 
 document.onkeydown=e=>{
+  if(!$('#lightbox').hidden){if(e.key==='ArrowLeft')lbStep(-1);if(e.key==='ArrowRight')lbStep(1)}
   if(e.key!=='Escape')return;
   if(!$('#lightbox').hidden)closeLightbox();
   else if($('#drawerbg').classList.contains('show'))closeDrawer();
@@ -370,10 +447,10 @@ drawer();
 fetch('productos.json',{cache:'no-cache'})
   .then(r=>{if(!r.ok)throw new Error(r.status);return r.json()})
   .then(data=>{
-    PRODUCTS=data;
+    PRODUCTS=data;PRODUCTS.forEach(p=>{p._s=norm(p.code+' '+p.name)});
     cats=['Todos',...new Set(PRODUCTS.map(p=>p.category))];
     basket=basket.filter(i=>PRODUCTS.some(p=>p.code===i.code&&!p.sold));
-    store();updateTopCategoryMenu();buildHero();render();drawer();
+    store();updateTopCategoryMenu();buildHero();render();drawer();loadPopular();
   })
   .catch(()=>{
     const e=$('#empty');e.hidden=false;
