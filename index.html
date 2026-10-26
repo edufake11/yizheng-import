@@ -181,9 +181,13 @@ const h=(tag,cls,text)=>{const e=document.createElement(tag);if(cls)e.className=
 const money=n=>'S/ '+Number(n).toFixed(2);
 const norm=t=>String(t).toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'');
 
-/* Contador de vistas (opcional). Pega aquí la URL de tu Google Apps Script
-   (ver contador-vistas.gs). Si queda vacío, la función "Lo más visto" no se muestra. */
-const STATS_URL='https://script.google.com/macros/s/AKfycbyDx0kyoO_B4JeLCNf4u-8V0rpacZx36QFJmEqoBhUMsKQ_R1_2G2qbRujPGUCFzXcM/exec';
+/* Contador de vistas con Firebase (opcional).
+   Pega aquí la dirección de tu Realtime Database, por ejemplo:
+   const FIREBASE_URL='https://tu-proyecto-default-rtdb.firebaseio.com';
+   Si queda vacío, la función "Lo más visto" no se muestra. */
+const FIREBASE_URL='https://yizheng-import-default-rtdb.firebaseio.com';
+const fbKey=c=>String(c).replace(/[.$#\[\]\/]/g,'_');
+const pv=c=>POP[fbKey(c)]||0;
 const MIN_VIEWS=5;   // vistas mínimas para aparecer como popular
 
 let PRODUCTS=[],cats=['Todos'],selected='Todos';
@@ -263,7 +267,7 @@ function render(){
   const only=$('#onlyAvail').checked;
   let shown=PRODUCTS.filter(p=>(selected==='Todos'||p.category===selected)&&(!only||!p.sold)&&words.every(w=>p._s.includes(w)));
   const s=$('#sort').value;
-  if(s==='pop')shown.sort((a,b)=>(POP[b.code]||0)-(POP[a.code]||0));
+  if(s==='pop')shown.sort((a,b)=>pv(b.code)-pv(a.code));
   else if(s!=='default')shown.sort((a,b)=>(s==='az'?1:-1)*a.code.localeCompare(b.code,undefined,{numeric:true}));
   shown=[...shown.filter(p=>!p.sold),...shown.filter(p=>p.sold)]; // agotados al final
   shownList=shown;
@@ -295,28 +299,29 @@ function renderPopular(allowed){
   box.append(sec);
 }
 function computePopular(){
-  topList=PRODUCTS.filter(p=>!p.sold&&(POP[p.code]||0)>=MIN_VIEWS).sort((a,b)=>POP[b.code]-POP[a.code]).slice(0,8);
+  topList=PRODUCTS.filter(p=>!p.sold&&pv(p.code)>=MIN_VIEWS).sort((a,b)=>pv(b.code)-pv(a.code)).slice(0,8);
   popular=new Set(topList.map(p=>p.code));
   if(topList.length>=3&&!$('#popOpt')){const o=h('option',null,'Más populares');o.value='pop';o.id='popOpt';$('#sort').append(o)}
 }
 function loadPopular(){
-  if(!STATS_URL)return;
+  if(!FIREBASE_URL)return;
   let cached=null;
   try{cached=JSON.parse(sessionStorage.getItem('yi_pop')||'null')}catch(e){}
   const apply=d=>{POP=d||{};computePopular();render()};
   if(cached&&Date.now()-cached.t<600000){apply(cached.d);return}
-  fetch(STATS_URL+'?a=top').then(r=>r.json()).then(d=>{
+  fetch(FIREBASE_URL.replace(/\/$/,'')+'/vistas.json').then(r=>{if(!r.ok)throw new Error(r.status);return r.json()}).then(d=>{
+    d=d||{};
     try{sessionStorage.setItem('yi_pop',JSON.stringify({t:Date.now(),d}))}catch(e){}
     apply(d);
   }).catch(()=>{});
 }
 let seen={};try{seen=JSON.parse(localStorage.getItem('yi_seen')||'{}')}catch(e){}
 function trackView(code){
-  if(!STATS_URL)return;
+  if(!FIREBASE_URL)return;
   const day=new Date().toISOString().slice(0,10);
   if(seen[code]===day)return;           // una vista por producto, por persona y por día
   seen[code]=day;try{localStorage.setItem('yi_seen',JSON.stringify(seen))}catch(e){}
-  fetch(STATS_URL+'?a=hit&c='+encodeURIComponent(code),{mode:'no-cors',keepalive:true}).catch(()=>{});
+  fetch(FIREBASE_URL.replace(/\/$/,'')+'/vistas/'+encodeURIComponent(fbKey(code))+'.json',{method:'PUT',body:JSON.stringify({'.sv':{increment:1}}),keepalive:true}).catch(()=>{});
 }
 
 /* ---------- menú de categorías ---------- */
