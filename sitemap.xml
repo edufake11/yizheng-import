@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://www.yizhengimport.com/</loc>
-  </url>
+  <url><loc>https://www.yizhengimport.com/</loc><lastmod>2026-10-26</lastmod><priority>1.0</priority></url>
+  <url><loc>https://www.yizhengimport.com/categoria/cocina-y-comedor/</loc><lastmod>2026-10-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.yizhengimport.com/categoria/tazas-vasos-y-bebidas/</loc><lastmod>2026-10-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.yizhengimport.com/categoria/joyeros-y-exhibidores/</loc><lastmod>2026-10-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.yizhengimport.com/categoria/organizacion-del-hogar/</loc><lastmod>2026-10-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.yizhengimport.com/categoria/belleza-y-maquillaje/</loc><lastmod>2026-10-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.yizhengimport.com/categoria/bano-y-cuidado-personal/</loc><lastmod>2026-10-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.yizhengimport.com/categoria/otros-productos/</loc><lastmod>2026-10-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.yizhengimport.com/categoria/fiestas-y-temporada/</loc><lastmod>2026-10-26</lastmod><priority>0.8</priority></url>
 </urlset>

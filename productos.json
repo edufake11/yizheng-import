@@ -633,7 +633,7 @@
     "code": "10200",
     "name": "Escalera organizadora de 3 niveles",
     "category": "Organización del hogar",
-    "image": "imagenes/10200.png",
+    "image": "imagenes/10200.webp",
     "price": 16.5,
     "sold": false
   },
@@ -641,7 +641,7 @@
     "code": "10201",
     "name": "Escalera organizadora de 4 niveles",
     "category": "Organización del hogar",
-    "image": "imagenes/10201.png",
+    "image": "imagenes/10201.webp",
     "price": 24.5,
     "sold": false
   },
@@ -649,7 +649,7 @@
     "code": "10252",
     "name": "Porta papel toalla de bambú con figura de flor",
     "category": "Organización del hogar",
-    "image": "imagenes/10252.png",
+    "image": "imagenes/10252.webp",
     "price": 8.5,
     "sold": false
   },
@@ -657,7 +657,7 @@
     "code": "10253",
     "name": "Porta papel toalla de bambú",
     "category": "Organización del hogar",
-    "image": "imagenes/10253.png",
+    "image": "imagenes/10253.webp",
     "price": 7.5,
     "sold": false
   },
@@ -665,7 +665,7 @@
     "code": "10259-1",
     "name": "Tabla de picar de bambú de 32 cm",
     "category": "Cocina y comedor",
-    "image": "imagenes/10259-1.png",
+    "image": "imagenes/10259-1.webp",
     "price": 7.5,
     "sold": false
   },
@@ -673,7 +673,7 @@
     "code": "10259-2",
     "name": "Tabla de picar de bambú de 29 cm",
     "category": "Cocina y comedor",
-    "image": "imagenes/10259-2.png",
+    "image": "imagenes/10259-2.webp",
     "price": 6.5,
     "sold": false
   },
@@ -681,7 +681,7 @@
     "code": "10261-1",
     "name": "Bandeja de bambú grande",
     "category": "Cocina y comedor",
-    "image": "imagenes/10261-1.png",
+    "image": "imagenes/10261-1.webp",
     "price": 9.5,
     "sold": false
   },
@@ -689,7 +689,7 @@
     "code": "10261-2",
     "name": "Bandeja de bambú pequeña",
     "category": "Cocina y comedor",
-    "image": "imagenes/10261-2.png",
+    "image": "imagenes/10261-2.webp",
     "price": 8.5,
     "sold": false
   },
@@ -697,7 +697,7 @@
     "code": "10264",
     "name": "Bandeja plegable de bambú para brazo de mueble",
     "category": "Cocina y comedor",
-    "image": "imagenes/10264.png",
+    "image": "imagenes/10264.webp",
     "price": 22.5,
     "sold": false
   },
@@ -705,7 +705,7 @@
     "code": "10269",
     "name": "Servilletero de bambú",
     "category": "Cocina y comedor",
-    "image": "imagenes/10269.png",
+    "image": "imagenes/10269.webp",
     "price": 7.5,
     "sold": false
   },
@@ -713,7 +713,7 @@
     "code": "10272",
     "name": "Organizador de cuchillos de bambú",
     "category": "Organización del hogar",
-    "image": "imagenes/10272.png",
+    "image": "imagenes/10272.webp",
     "price": 16.5,
     "sold": false
   },
@@ -721,7 +721,7 @@
     "code": "10283",
     "name": "Bandeja plegable redonda para brazo de mueble",
     "category": "Cocina y comedor",
-    "image": "imagenes/10283.png",
+    "image": "imagenes/10283.webp",
     "price": 21.5,
     "sold": false
   },
@@ -729,7 +729,7 @@
     "code": "10345",
     "name": "Ensaladero portátil con compartimento para salsa",
     "category": "Cocina y comedor",
-    "image": "imagenes/10345.png",
+    "image": "imagenes/10345.webp",
     "price": 10.5,
     "sold": false
   },
@@ -737,7 +737,7 @@
     "code": "10379",
     "name": "Dispensadores de aceite y vinagre con base",
     "category": "Cocina y comedor",
-    "image": "imagenes/10379.png",
+    "image": "imagenes/10379.webp",
     "price": 17.5,
     "sold": false
   },
@@ -745,7 +745,7 @@
     "code": "10380",
     "name": "Azucarera de cerámica con tapa de bambú",
     "category": "Otros productos",
-    "image": "imagenes/10380.png",
+    "image": "imagenes/10380.webp",
     "price": 21.5,
     "sold": false
   },
@@ -753,7 +753,7 @@
     "code": "10386",
     "name": "Organizador de utensilios de cerámica",
     "category": "Organización del hogar",
-    "image": "imagenes/10386.png",
+    "image": "imagenes/10386.webp",
     "price": 29.5,
     "sold": false
   },
@@ -761,7 +761,7 @@
     "code": "10420-1",
     "name": "Organizador de madera para té con tapa transparente",
     "category": "Cocina y comedor",
-    "image": "imagenes/10420-1.png",
+    "image": "imagenes/10420-1.webp",
     "price": 15.5,
     "sold": false
   },
@@ -769,7 +769,7 @@
     "code": "10420-2",
     "name": "Organizador de madera para té con tres compartimentos",
     "category": "Cocina y comedor",
-    "image": "imagenes/10420-2.png",
+    "image": "imagenes/10420-2.webp",
     "price": 12.5,
     "sold": false
   },
@@ -777,7 +777,7 @@
     "code": "10420-3",
     "name": "Adorno de madera para llaves Welcome",
     "category": "Otros productos",
-    "image": "imagenes/10420-3.png",
+    "image": "imagenes/10420-3.webp",
     "price": 12.5,
     "sold": true
   },
@@ -785,7 +785,7 @@
     "code": "10420-5",
     "name": "Set de seis posavasos de madera",
     "category": "Cocina y comedor",
-    "image": "imagenes/10420-5.png",
+    "image": "imagenes/10420-5.webp",
     "price": 12.5,
     "sold": false
   },
@@ -793,7 +793,7 @@
     "code": "10421-1",
     "name": "Organizador de madera para cápsulas de café",
     "category": "Cocina y comedor",
-    "image": "imagenes/10421-1.png",
+    "image": "imagenes/10421-1.webp",
     "price": 15.5,
     "sold": false
   },
@@ -801,7 +801,7 @@
     "code": "10421-2",
     "name": "Organizador de madera para té Home Sweet Home",
     "category": "Cocina y comedor",
-    "image": "imagenes/10421-2.png",
+    "image": "imagenes/10421-2.webp",
     "price": 12.5,
     "sold": false
   },
@@ -809,7 +809,7 @@
     "code": "10421-3",
     "name": "Adorno de madera para llaves Home",
     "category": "Otros productos",
-    "image": "imagenes/10421-3.png",
+    "image": "imagenes/10421-3.webp",
     "price": 12.5,
     "sold": false
   },
@@ -817,7 +817,7 @@
     "code": "10421-4",
     "name": "Organizador de cubiertos de madera",
     "category": "Cocina y comedor",
-    "image": "imagenes/10421-4.png",
+    "image": "imagenes/10421-4.webp",
     "price": 20.5,
     "sold": false
   },
@@ -825,7 +825,7 @@
     "code": "10421-5",
     "name": "Set de seis posavasos de madera Home Sweet",
     "category": "Cocina y comedor",
-    "image": "imagenes/10421-5.png",
+    "image": "imagenes/10421-5.webp",
     "price": 12.5,
     "sold": false
   },
@@ -833,7 +833,7 @@
     "code": "10422-1",
     "name": "Organizador de madera para té y cápsulas de café",
     "category": "Cocina y comedor",
-    "image": "imagenes/10422-1.png",
+    "image": "imagenes/10422-1.webp",
     "price": 16.5,
     "sold": false
   },
@@ -841,7 +841,7 @@
     "code": "10422-2",
     "name": "Organizador de madera para té con tapa transparente",
     "category": "Cocina y comedor",
-    "image": "imagenes/10422-2.png",
+    "image": "imagenes/10422-2.webp",
     "price": 13.5,
     "sold": false
   },
@@ -849,7 +849,7 @@
     "code": "10423-1",
     "name": "Organizador de madera para té de seis compartimentos",
     "category": "Cocina y comedor",
-    "image": "imagenes/10423-1.png",
+    "image": "imagenes/10423-1.webp",
     "price": 16.5,
     "sold": false
   },
@@ -857,7 +857,7 @@
     "code": "10423-2",
     "name": "Set de seis posavasos de madera Home Café",
     "category": "Cocina y comedor",
-    "image": "imagenes/10423-2.png",
+    "image": "imagenes/10423-2.webp",
     "price": 12.5,
     "sold": false
   },
@@ -865,7 +865,7 @@
     "code": "10423-3",
     "name": "Set de seis posavasos de madera con diseño de piña",
     "category": "Cocina y comedor",
-    "image": "imagenes/10423-3.png",
+    "image": "imagenes/10423-3.webp",
     "price": 12.5,
     "sold": false
   },
@@ -873,7 +873,7 @@
     "code": "10429",
     "name": "Set de mesa: servilletero, azucarera, sal y pimienta",
     "category": "Cocina y comedor",
-    "image": "imagenes/10429.png",
+    "image": "imagenes/10429.webp",
     "price": 31.5,
     "sold": false
   },
@@ -881,7 +881,7 @@
     "code": "10430",
     "name": "Organizador de utensilios de cerámica con base",
     "category": "Organización del hogar",
-    "image": "imagenes/10430.png",
+    "image": "imagenes/10430.webp",
     "price": 39.5,
     "sold": false
   },
@@ -889,7 +889,7 @@
     "code": "7605-1",
     "name": "Organizador de snacks de cuatro compartimentos color humo",
     "category": "Cocina y comedor",
-    "image": "imagenes/7605-1.png",
+    "image": "imagenes/7605-1.webp",
     "price": 20.5,
     "sold": false
   },
@@ -897,7 +897,7 @@
     "code": "7605-2",
     "name": "Organizador de snacks de cuatro compartimentos transparente",
     "category": "Cocina y comedor",
-    "image": "imagenes/7605-2.png",
+    "image": "imagenes/7605-2.webp",
     "price": 20.5,
     "sold": false
   },
@@ -905,7 +905,7 @@
     "code": "9162",
     "name": "Producto código 9162",
     "category": "Otros productos",
-    "image": "imagenes/9162.png",
+    "image": "imagenes/9162.webp",
     "price": null,
     "sold": false
   },
@@ -913,7 +913,7 @@
     "code": "9409",
     "name": "Organizador de vasos de bambú",
     "category": "Tazas, vasos y bebidas",
-    "image": "imagenes/9409.png",
+    "image": "imagenes/9409.webp",
     "price": 9.5,
     "sold": false
   },
@@ -921,7 +921,7 @@
     "code": "9482",
     "name": "Limpiador eléctrico de brochas de maquillaje",
     "category": "Belleza y maquillaje",
-    "image": "imagenes/9482.png",
+    "image": "imagenes/9482.webp",
     "price": 10.5,
     "sold": false
   },
@@ -929,7 +929,7 @@
     "code": "9484",
     "name": "Mezclador automático para bebidas",
     "category": "Cocina y comedor",
-    "image": "imagenes/9484.png",
+    "image": "imagenes/9484.webp",
     "price": 10.5,
     "sold": false
   },
@@ -937,7 +937,7 @@
     "code": "9534-1",
     "name": "Frasco hermético de vidrio con tapa de bambú grande",
     "category": "Cocina y comedor",
-    "image": "imagenes/9534-1.png",
+    "image": "imagenes/9534-1.webp",
     "price": 11.5,
     "sold": false
   },
@@ -945,7 +945,7 @@
     "code": "9534-2",
     "name": "Frasco hermético de vidrio con tapa de bambú mediano",
     "category": "Cocina y comedor",
-    "image": "imagenes/9534-2.png",
+    "image": "imagenes/9534-2.webp",
     "price": 10.5,
     "sold": false
   },
@@ -953,7 +953,7 @@
     "code": "9534-3",
     "name": "Frasco hermético de vidrio con tapa de bambú pequeño",
     "category": "Cocina y comedor",
-    "image": "imagenes/9534-3.png",
+    "image": "imagenes/9534-3.webp",
     "price": 9.5,
     "sold": false
   },
@@ -961,7 +961,7 @@
     "code": "9543",
     "name": "Cabina de fotos LED de 30 cm",
     "category": "Otros productos",
-    "image": "imagenes/9543.png",
+    "image": "imagenes/9543.webp",
     "price": 52.5,
     "sold": false
   },
@@ -969,7 +969,7 @@
     "code": "9544",
     "name": "Cabina de fotos LED de 40 cm",
     "category": "Otros productos",
-    "image": "imagenes/9544.png",
+    "image": "imagenes/9544.webp",
     "price": 75.0,
     "sold": false
   },
@@ -977,7 +977,7 @@
     "code": "HA 0079",
     "name": "Servilletero de bambú y base blanca",
     "category": "Cocina y comedor",
-    "image": "imagenes/HA 0079.png",
+    "image": "imagenes/HA 0079.webp",
     "price": 7.5,
     "sold": false
   },
@@ -985,7 +985,7 @@
     "code": "HA 0148-1",
     "name": "Set de tres recipientes herméticos con tapa de silicona",
     "category": "Otros productos",
-    "image": "imagenes/HA 0148-1.png",
+    "image": "imagenes/HA 0148-1.webp",
     "price": 26.5,
     "sold": false
   },
@@ -993,7 +993,7 @@
     "code": "HA 0262",
     "name": "Producto código HA 0262",
     "category": "Otros productos",
-    "image": "imagenes/HA 0262.png",
+    "image": "imagenes/HA 0262.webp",
     "price": null,
     "sold": false
   },
@@ -1001,7 +1001,7 @@
     "code": "HA 0263 o 9614",
     "name": "Producto código HA 0263 o 9614",
     "category": "Otros productos",
-    "image": "imagenes/HA 0263 o 9614.png",
+    "image": "imagenes/HA 0263 o 9614.webp",
     "price": null,
     "sold": false
   },
@@ -1009,7 +1009,7 @@
     "code": "HA 0264 o 9616",
     "name": "Producto código HA 0264 o 9616",
     "category": "Otros productos",
-    "image": "imagenes/HA 0264 o 9616.png",
+    "image": "imagenes/HA 0264 o 9616.webp",
     "price": null,
     "sold": false
   },
@@ -1017,7 +1017,7 @@
     "code": "HA 0265 o 9615",
     "name": "Producto código HA 0265 o 9615",
     "category": "Otros productos",
-    "image": "imagenes/HA 0265 o 9615.png",
+    "image": "imagenes/HA 0265 o 9615.webp",
     "price": null,
     "sold": false
   },
@@ -1025,7 +1025,7 @@
     "code": "HA 0289",
     "name": "Organizador giratorio de maquillaje",
     "category": "Belleza y maquillaje",
-    "image": "imagenes/HA 0289.png",
+    "image": "imagenes/HA 0289.webp",
     "price": 17.5,
     "sold": false
   },
@@ -1033,7 +1033,7 @@
     "code": "HA 0290",
     "name": "Organizador giratorio de maquillaje y brochas",
     "category": "Belleza y maquillaje",
-    "image": "imagenes/HA 0290.png",
+    "image": "imagenes/HA 0290.webp",
     "price": 13.5,
     "sold": false
   },
@@ -1041,7 +1041,7 @@
     "code": "HA 0292",
     "name": "Producto código HA 0292",
     "category": "Otros productos",
-    "image": "imagenes/HA 0292.png",
+    "image": "imagenes/HA 0292.webp",
     "price": null,
     "sold": false
   },
@@ -1049,7 +1049,7 @@
     "code": "HA 0301",
     "name": "Vinchas de Halloween con luz",
     "category": "Fiestas y temporada",
-    "image": "imagenes/HA 0301.png",
+    "image": "imagenes/HA 0301.webp",
     "price": 24.5,
     "sold": false
   },
@@ -1057,7 +1057,7 @@
     "code": "HA 0302",
     "name": "Vinchas de Halloween sin luz",
     "category": "Fiestas y temporada",
-    "image": "imagenes/HA 0302.png",
+    "image": "imagenes/HA 0302.webp",
     "price": 16.5,
     "sold": false
   },
@@ -1065,7 +1065,7 @@
     "code": "HA 0304",
     "name": "Vinchas de Halloween con murciélagos",
     "category": "Fiestas y temporada",
-    "image": "imagenes/HA 0304.png",
+    "image": "imagenes/HA 0304.webp",
     "price": 38.5,
     "sold": false
   },
@@ -1073,7 +1073,7 @@
     "code": "HA 0305",
     "name": "Vinchas de Halloween con plumas",
     "category": "Fiestas y temporada",
-    "image": "imagenes/HA 0305.png",
+    "image": "imagenes/HA 0305.webp",
     "price": 30.5,
     "sold": false
   },
@@ -1081,7 +1081,7 @@
     "code": "HA 0306",
     "name": "Sombreros de bruja de Halloween",
     "category": "Fiestas y temporada",
-    "image": "imagenes/HA 0306.png",
+    "image": "imagenes/HA 0306.webp",
     "price": 21.5,
     "sold": false
   },
@@ -1089,7 +1089,7 @@
     "code": "HA 0307",
     "name": "Sombreros de bruja de Halloween con diseños",
     "category": "Fiestas y temporada",
-    "image": "imagenes/HA 0307.png",
+    "image": "imagenes/HA 0307.webp",
     "price": 21.5,
     "sold": false
   },
@@ -1097,7 +1097,7 @@
     "code": "HA 0310",
     "name": "Peluca larga de colores",
     "category": "Fiestas y temporada",
-    "image": "imagenes/HA 0310.png",
+    "image": "imagenes/HA 0310.webp",
     "price": 66.0,
     "sold": false
   },
@@ -1105,7 +1105,7 @@
     "code": "HA 0311",
     "name": "Peluca corta de colores",
     "category": "Fiestas y temporada",
-    "image": "imagenes/HA 0311.png",
+    "image": "imagenes/HA 0311.webp",
     "price": 58.5,
     "sold": false
   },
@@ -1113,7 +1113,7 @@
     "code": "HA 0312",
     "name": "Máscara LED de Halloween",
     "category": "Fiestas y temporada",
-    "image": "imagenes/HA 0312.png",
+    "image": "imagenes/HA 0312.webp",
     "price": 7.5,
     "sold": false
   },
@@ -1121,7 +1121,7 @@
     "code": "HA 129",
     "name": "Dispensador de papel film y cortador de bambú",
     "category": "Cocina y comedor",
-    "image": "imagenes/HA 129.png",
+    "image": "imagenes/HA 129.webp",
     "price": 18.5,
     "sold": false
   },
@@ -1129,7 +1129,7 @@
     "code": "HA-0177",
     "name": "Dispensador de miel con gatillo",
     "category": "Cocina y comedor",
-    "image": "imagenes/HA-0177.png",
+    "image": "imagenes/HA-0177.webp",
     "price": 7.5,
     "sold": false
   }
