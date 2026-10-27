@@ -73,7 +73,7 @@
   },
   {
     "code": "10449",
-    "name": "Vaso de borocilicato con lazo",
+    "name": "Vaso de borosilicato con lazo",
     "category": "Tazas, vasos y bebidas",
     "image": "imagenes/p009.webp",
     "price": 6.5,
@@ -82,7 +82,7 @@
   },
   {
     "code": "10453",
-    "name": "Vaso de borocilicato con lazo",
+    "name": "Vaso de borosilicato con lazo",
     "category": "Tazas, vasos y bebidas",
     "image": "imagenes/p010.webp",
     "price": 8.5,
@@ -424,7 +424,7 @@
   },
   {
     "code": "9050",
-    "name": "Estuche  para cepillo de dientes",
+    "name": "Estuche para cepillo de dientes",
     "category": "Baño y cuidado personal",
     "image": "imagenes/p048.webp",
     "price": 5.5,
@@ -744,7 +744,7 @@
   {
     "code": "10380",
     "name": "Azucarera de cerámica con tapa de bambú",
-    "category": "Otros productos",
+    "category": "Cocina y comedor",
     "image": "imagenes/10380.webp",
     "price": 21.5,
     "sold": false
@@ -776,7 +776,7 @@
   {
     "code": "10420-3",
     "name": "Adorno de madera para llaves Welcome",
-    "category": "Otros productos",
+    "category": "Cocina y comedor",
     "image": "imagenes/10420-3.webp",
     "price": 12.5,
     "sold": true
@@ -808,7 +808,7 @@
   {
     "code": "10421-3",
     "name": "Adorno de madera para llaves Home",
-    "category": "Otros productos",
+    "category": "Cocina y comedor",
     "image": "imagenes/10421-3.webp",
     "price": 12.5,
     "sold": false
@@ -903,10 +903,10 @@
   },
   {
     "code": "9162",
-    "name": "Producto código 9162",
-    "category": "Otros productos",
+    "name": "Portatorta con base de madera y tapa de acrílico transparente",
+    "category": "Cocina y comedor",
     "image": "imagenes/9162.webp",
-    "price": null,
+    "price": 32.5,
     "sold": false
   },
   {
@@ -984,41 +984,41 @@
   {
     "code": "HA 0148-1",
     "name": "Set de tres recipientes herméticos con tapa de silicona",
-    "category": "Otros productos",
+    "category": "Cocina y comedor",
     "image": "imagenes/HA 0148-1.webp",
     "price": 26.5,
     "sold": false
   },
   {
-    "code": "HA 0262",
-    "name": "Producto código HA 0262",
-    "category": "Otros productos",
+    "code": "HA 0262 o 9613",
+    "name": "Portatorta con base de madera y tapa de vidrio de 25 cm",
+    "category": "Cocina y comedor",
     "image": "imagenes/HA 0262.webp",
-    "price": null,
+    "price": 36.0,
     "sold": false
   },
   {
     "code": "HA 0263 o 9614",
-    "name": "Producto código HA 0263 o 9614",
-    "category": "Otros productos",
+    "name": "Portatorta con base de madera y tapa de vidrio de 29 cm",
+    "category": "Cocina y comedor",
     "image": "imagenes/HA 0263 o 9614.webp",
-    "price": null,
+    "price": 51.5,
     "sold": false
   },
   {
     "code": "HA 0264 o 9616",
-    "name": "Producto código HA 0264 o 9616",
-    "category": "Otros productos",
+    "name": "Portatorta con base de madera elevada y tapa transparente tipo campana de 29 cm",
+    "category": "Cocina y comedor",
     "image": "imagenes/HA 0264 o 9616.webp",
-    "price": null,
+    "price": 55.5,
     "sold": false
   },
   {
     "code": "HA 0265 o 9615",
-    "name": "Producto código HA 0265 o 9615",
-    "category": "Otros productos",
+    "name": "Portatorta con base de madera elevada y tapa de vidrio de 26 cm",
+    "category": "Cocina y comedor",
     "image": "imagenes/HA 0265 o 9615.webp",
-    "price": null,
+    "price": 49.5,
     "sold": false
   },
   {
@@ -1039,10 +1039,10 @@
   },
   {
     "code": "HA 0292",
-    "name": "Producto código HA 0292",
-    "category": "Otros productos",
+    "name": "Mezclador automático para bebidas",
+    "category": "Cocina y comedor",
     "image": "imagenes/HA 0292.webp",
-    "price": null,
+    "price": 14.5,
     "sold": false
   },
   {
