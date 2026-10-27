@@ -49,8 +49,10 @@ SL = {c: slug(c) for c in cats}
 
 ONERR = "if(!this.dataset.f){this.dataset.f=1;this.src=this.src.replace(/\\.webp$/,'.png')}"
 
+FIT_JS = """<script>document.querySelectorAll('.ph img').forEach(function(i){var f=function(){var r=i.naturalWidth/i.naturalHeight;if(r&&(r<0.8||r>1.25)){i.parentNode.classList.add('fit');i.parentNode.style.setProperty('--u','url("'+i.currentSrc+'")')}};if(i.complete){f()}else{i.addEventListener('load',f)}})</script>"""
+
 def card(p, i):
-    img = '<img src="/%s" alt="%s" width="600" height="672" %s decoding="async" onerror="%s">' % (
+    img = '<div class="ph"><img src="/%s" alt="%s" %s decoding="async" onerror="%s"></div>' % (
         e(img_url(p)), e('%s · código %s' % (p['name'], p['code'])),
         'loading="eager"' if i < 4 else 'loading="lazy"', ONERR)
     if p['sold']:
@@ -125,6 +127,7 @@ def page(cat):
 <footer><div class="wrap fcols"><div><strong>YIZHENG IMPORT</strong><p>Galería Comercial Guizado Hnos., piso 5, stands 514 y 515<br>Lima, Perú<br>Lunes a sábado, 10:15 am a 8:00 pm</p>
 <p><a href="https://wa.me/{PHONE}" target="_blank" rel="noopener">WhatsApp</a> · <a href="{MAPS}" target="_blank" rel="noopener">Cómo llegar</a> · <a href="{TIKTOK}" target="_blank" rel="noopener">TikTok</a></p></div>
 <div><strong>Categorías</strong><div class="flinks">{foot}</div></div></div></footer>
+{FIT_JS}
 </body></html>'''
 
 for c in cats:
