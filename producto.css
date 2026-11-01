@@ -32,3 +32,8 @@
 .pd-rel h2,.pd-text h2{position:relative;padding-bottom:10px}
 .pd-rel h2::after,.pd-text h2::after{content:"";position:absolute;left:0;bottom:0;width:44px;height:4px;border-radius:9px;background:linear-gradient(90deg,#0d706d,#e8590c)}
 .pd-rel{margin-top:34px}
+
+.trust li b{color:var(--teal)}
+.share button,.share a{display:inline-flex;align-items:center;gap:6px}
+.wa.big.alt{animation:none;box-shadow:none;background:#fff;color:var(--teal);border:1.5px solid var(--teal)}
+.wa.big.alt:hover{background:#e8f3f0}
